@@ -1,0 +1,1693 @@
+Date,Title,Authors,Abstracts
+2023-07-31,ChatGPT for Teaching and Learning: An Experience from Data Science Education,Yong Zheng,"ChatGPT, an implementation and application of large language models, has
+gained significant popularity since its initial release. Researchers have been
+exploring ways to harness the practical benefits of ChatGPT in real-world
+scenarios. Educational researchers have investigated its potential in various
+subjects, e.g., programming, mathematics, finance, clinical decision support,
+etc. However, there has been limited attention given to its application in data
+science education. This paper aims to bridge that gap by utilizing ChatGPT in a
+data science course, gathering perspectives from students, and presenting our
+experiences and feedback on using ChatGPT for teaching and learning in data
+science education. The findings not only distinguish data science education
+from other disciplines but also uncover new opportunities and challenges
+associated with incorporating ChatGPT into the data science curriculum."
+2024-03-11,Exploring the Impact of ChatGPT on Student Interactions in Computer-Supported Collaborative Learning,"Han Kyul Kim, Shriniwas Nayak, Aleyeh Roknaldin, Xiaoci Zhang, Marlon Twyman, Stephen Lu","The growing popularity of generative AI, particularly ChatGPT, has sparked
+both enthusiasm and caution among practitioners and researchers in education.
+To effectively harness the full potential of ChatGPT in educational contexts,
+it is crucial to analyze its impact and suitability for different educational
+purposes. This paper takes an initial step in exploring the applicability of
+ChatGPT in a computer-supported collaborative learning (CSCL) environment.
+Using statistical analysis, we validate the shifts in student interactions
+during an asynchronous group brainstorming session by introducing ChatGPT as an
+instantaneous question-answering agent."
+2024-03-28,The use of ChatGPT in higher education: The advantages and disadvantages,Joshua Ebere Chukwuere,"Higher education scholars are interested in an artificial intelligence (AI)
+technology called ChatGPT, which was developed by OpenAI. Whether ChatGPT can
+improve learning is still a topic of debate among experts. This concise
+overview of the literature examines the application of ChatGPT in higher
+education to comprehend and produce high-level instruction. By examining the
+essential literature, this study seeks to provide a thorough assessment of the
+advantages and disadvantages of utilizing ChatGPT in higher education settings.
+But it's crucial to consider both the positive and negative elements. For this
+rapid review, the researcher searched Google Scholar, Scopus, and others
+between January 2023 and July 2023 for prior research from various
+publications. These studies were examined. The study found that employing
+ChatGPT in higher education is beneficial for a number of reasons. It can
+provide individualized instruction, and prompt feedback, facilitate access to
+learning, and promote student interaction. These benefits could improve the
+learning environment and make it more fun for academics and students. The cons
+of ChatGPT are equally present. These problems include the inability to
+comprehend emotions, the lack of social interaction chances, technological
+limitations, and the dangers of depending too much on ChatGPT for higher
+education. Higher education should combine ChatGPT with other teaching
+techniques to provide students and lecturers with a comprehensive education.
+However, it is crucial to consider the positives, negatives, and moral issues
+before adopting ChatGPT in the classroom."
+2024-04-05,Enhancing Programming Education with ChatGPT: A Case Study on Student Perceptions and Interactions in a Python Course,"Boxaun Ma, Li Chen, Shin'ichi Konomi","The integration of ChatGPT as a supportive tool in education, notably in
+programming courses, addresses the unique challenges of programming education
+by providing assistance with debugging, code generation, and explanations.
+Despite existing research validating ChatGPT's effectiveness, its application
+in university-level programming education and a detailed understanding of
+student interactions and perspectives remain limited. This paper explores
+ChatGPT's impact on learning in a Python programming course tailored for
+first-year students over eight weeks. By analyzing responses from surveys,
+open-ended questions, and student-ChatGPT dialog data, we aim to provide a
+comprehensive view of ChatGPT's utility and identify both its advantages and
+limitations as perceived by students. Our study uncovers a generally positive
+reception toward ChatGPT and offers insights into its role in enhancing the
+programming education experience. These findings contribute to the broader
+discourse on AI's potential in education, suggesting paths for future research
+and application."
+2023-09-27,"""ChatGPT, a Friend or Foe for Education?"" Analyzing the User's Perspectives on the Latest AI Chatbot Via Reddit","Forhan Bin Emdad, Benhur Ravuri, Lateef Ayinde, Mohammad Ishtiaque Rahman","Latest developments in Artificial Intelligence (AI) and big data gave rise to
+Artificial Intelligent agents like Open AI's ChatGPT, which has recently become
+the fastest growing application since Facebook and WhatsApp. ChatGPT has
+demonstrated its ability to impact students' classroom learning experience and
+exam outcomes. However, there is evidence that ChatGPT provides biased and
+erroneous information, yet students use ChatGPT in academic tasks. Therefore,
+an accurate understanding of ChatGPT user perception is crucial. This study has
+analyzed 247 Reddit top posts related to the educational use of ChatGPT from a
+prominent subreddit called ""ChatGPT"" for user perception analysis. Descriptive
+statistics, sentiment analysis using NLP techniques, and LDA topic modeling
+were used for analysis to gather a contextual understanding of the data.
+Results show that the majority of the users took a neutral viewpoint. However,
+there was more positive perception than negative regarding the usefulness of
+ChatGPT in education."
+2024-02-26,"ChatGPT in Veterinary Medicine: A Practical Guidance of Generative Artificial Intelligence in Clinics, Education, and Research",Candice P. Chu,"ChatGPT, the most accessible generative artificial intelligence (AI) tool,
+offers considerable potential for veterinary medicine, yet a dedicated review
+of its specific applications is lacking. This review concisely synthesizes the
+latest research and practical applications of ChatGPT within the clinical,
+educational, and research domains of veterinary medicine. It intends to provide
+specific guidance and actionable examples of how generative AI can be directly
+utilized by veterinary professionals without a programming background. For
+practitioners, ChatGPT can extract patient data, generate progress notes, and
+potentially assist in diagnosing complex cases. Veterinary educators can create
+custom GPTs for student support, while students can utilize ChatGPT for exam
+preparation. ChatGPT can aid in academic writing tasks in research, but
+veterinary publishers have set specific requirements for authors to follow.
+Despite its transformative potential, careful use is essential to avoid
+pitfalls like hallucination. This review addresses ethical considerations,
+provides learning resources, and offers tangible examples to guide responsible
+implementation. Carefully selected, up-to-date links to platforms that host
+large language models are provided for advanced readers with programming
+capability. A table of key takeaways was provided to summarize this review. By
+highlighting potential benefits and limitations, this review equips
+veterinarians, educators, and researchers to harness the power of ChatGPT
+effectively."
+2023-03-20,On the Educational Impact of ChatGPT: Is Artificial Intelligence Ready to Obtain a University Degree?,"Kamil Malinka, Martin Perešíni, Anton Firc, Ondřej Hujňák, Filip Januš","In late 2022, OpenAI released a new version of ChatGPT, a sophisticated
+natural language processing system capable of holding natural conversations
+while preserving and responding to the context of the discussion. ChatGPT has
+exceeded expectations in its abilities, leading to extensive considerations of
+its potential applications and misuse. In this work, we evaluate the influence
+of ChatGPT on university education, with a primary focus on computer
+security-oriented specialization. We gather data regarding the effectiveness
+and usability of this tool for completing exams, programming assignments, and
+term papers. We evaluate multiple levels of tool misuse, ranging from utilizing
+it as a consultant to simply copying its outputs. While we demonstrate how
+easily ChatGPT can be used to cheat, we also discuss the potentially
+significant benefits to the educational system. For instance, it might be used
+as an aid (assistant) to discuss problems encountered while solving an
+assignment or to speed up the learning process. Ultimately, we discuss how
+computer science higher education should adapt to tools like ChatGPT."
+2023-07-26,AI and Education: An Investigation into the Use of ChatGPT for Systems Thinking,Holger Arndt,"This exploratory study investigates the potential of the artificial
+intelligence tool, ChatGPT, to support systems thinking (ST) in various
+subjects. Using both general and subject specific prompts, the study assesses
+the accuracy, helpfulness, and reliability of ChatGPT's responses across
+different versions of the tool. The results indicate that ChatGPT can provide
+largely correct and very helpful responses in various subjects, demonstrating
+its potential as a tool for enhancing ST skills. However, occasional
+inaccuracies highlight the need for users to remain critical of ChatGPT's
+responses. Despite some limitations, this study suggests that with careful use
+and attention to its idiosyncrasies, ChatGPT can be a valuable tool for
+teaching and learning ST."
+2023-10-31,Decoding The Digital Fuku: Deciphering Colonial Legacies to Critically Assess ChatGPT in Dominican Education,Anaelia Ovalle,"Educational disparities within the Dominican Republic (DR) have long-standing
+origins rooted in economic, political, and social inequity. Addressing these
+challenges has necessarily called for capacity building with respect to
+educational materials, high-quality instruction, and structural resourcing.
+Generative AI tools like ChatGPT have begun to pique the interest of Dominican
+educators due to their perceived potential to bridge these educational gaps.
+However, a substantial body of AI fairness literature has documented ways AI
+disproportionately reinforces power dynamics reflective of jurisdictions
+driving AI development and deployment policies, collectively termed the AI
+Global North. As such, indiscriminate adoption of this technology for DR
+education, even in part, risks perpetuating forms of digital coloniality.
+Therefore, this paper centers embracing AI-facilitated educational reform by
+critically examining how AI-driven tools like ChatGPT in DR education may
+replicate facets of digital colonialism. We provide a concise overview of
+20th-century Dominican education reforms following the 1916 US occupation.
+Then, we employ identified neocolonial aspects historically shaping Dominican
+education to interrogate the perceived advantages of ChatGPT for contemporary
+Dominican education, as outlined by a Dominican scholar. This work invites AI
+Global North & South developers, stakeholders, and Dominican leaders alike to
+exercise a relational contextualization of data-centric epistemologies like
+ChatGPT to reap its transformative benefits while remaining vigilant of
+safeguarding Dominican digital sovereignty."
+2023-03-09,Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data,"Anna-Carolina Haensch, Sarah Ball, Markus Herklotz, Frauke Kreuter","Advanced large language models like ChatGPT have gained considerable
+attention recently, including among students. However, while the debate on
+ChatGPT in academia is making waves, more understanding is needed among
+lecturers and teachers on how students use and perceive ChatGPT. To address
+this gap, we analyzed the content on ChatGPT available on TikTok in February
+2023. TikTok is a rapidly growing social media platform popular among
+individuals under 30. Specifically, we analyzed the content of the 100 most
+popular videos in English tagged with #chatgpt, which collectively garnered
+over 250 million views. Most of the videos we studied promoted the use of
+ChatGPT for tasks like writing essays or code. In addition, many videos
+discussed AI detectors, with a focus on how other tools can help to transform
+ChatGPT output to fool these detectors. This also mirrors the discussion among
+educators on how to treat ChatGPT as lecturers and teachers in teaching and
+grading. What is, however, missing from the analyzed clips on TikTok are videos
+that discuss ChatGPT producing content that is nonsensical or unfaithful to the
+training data."
+2024-02-21,A Study on the Vulnerability of Test Questions against ChatGPT-based Cheating,"Shanker Ram, Chen Qian","ChatGPT is a chatbot that can answer text prompts fairly accurately, even
+performing very well on postgraduate-level questions. Many educators have found
+that their take-home or remote tests and exams are vulnerable to ChatGPT-based
+cheating because students may directly use answers provided by tools like
+ChatGPT. In this paper, we try to provide an answer to an important question:
+how well ChatGPT can answer test questions and how we can detect whether the
+questions of a test can be answered correctly by ChatGPT. We generated
+ChatGPT's responses to the MedMCQA dataset, which contains over 10,000 medical
+school entrance exam questions. We analyzed the responses and uncovered certain
+types of questions ChatGPT answers more inaccurately than others. In addition,
+we have created a basic natural language processing model to single out the
+most vulnerable questions to ChatGPT in a collection of questions or a sample
+exam. Our tool can be used by test-makers to avoid ChatGPT-vulnerable test
+questions."
+2023-12-22,Integrating ChatGPT in a Computer Science Course: Students Perceptions and Suggestions,"Kehinde Aruleba, Ismaila Temitayo Sanusi, George Obaido, Blessing Ogbuokiri","The integration of artificial intelligence tools such as ChatGPT in the
+education system has gained attention in recent years. This experience report
+explores students' perceptions and suggestions for integrating ChatGPT in a
+computer science course. Following a ChatGPT activity which includes code
+completion and analysis, seven students participated in in-depth interviews.
+Findings from the transcribed interviews suggest that ChatGPT has the potential
+to enhance learning experience including programming. They highlighted the
+tool's ability to respond immediately to queries and supporting personalised
+learning. However, they raise concerns that heavy reliance on ChatGPT may
+adversely affect students' critical thinking and problem-solving skills. These
+findings show the importance of carefully balancing using ChatGPT in computer
+science courses. The findings of this research have significant implications
+for educators, curriculum designers and policymakers as they explore
+integrating AI tools into educational contexts."
+2024-01-31,ChatGPT in the classroom. Exploring its potential and limitations in a Functional Programming course,Dan-Matei Popovici,"In November 2022, OpenAI has introduced ChatGPT, a chatbot based on
+supervised and reinforcement learning. Not only can it answer questions
+emulating human-like responses, but it can also generate code from scratch or
+complete coding templates provided by the user. ChatGPT can generate unique
+responses which render any traditional anti-plagiarism tool useless. Its
+release has ignited a heated debate about its usage in academia, especially by
+students. We have found, to our surprise, that our students at POLITEHNICA
+University of Bucharest (UPB) have been using generative AI tools (ChatGPT and
+its predecessors) for solving homework, for at least 6 months. We therefore set
+out to explore the capabilities of ChatGPT and assess its value for educational
+purposes. We solved all our coding assignments for the semester from our UPB
+Functional Programming course. We discovered that, although ChatGPT provides
+correct answers in 68% of the cases, only around half of those are legible
+solutions which can benefit students in some form. On the other hand, ChatGPT
+has a very good ability to perform code review on student programming homework.
+Based on these findings, we discuss the pros and cons of ChatGPT in education."
+2023-12-02,Kattis vs. ChatGPT: Assessment and Evaluation of Programming Tasks in the Age of Artificial Intelligence,"Nora Dunder, Saga Lundborg, Olga Viberg, Jacqueline Wong","AI-powered education technologies can support students and teachers in
+computer science education. However, with the recent developments in generative
+AI, and especially the increasingly emerging popularity of ChatGPT, the
+effectiveness of using large language models for solving programming tasks has
+been underexplored. The present study examines ChatGPT's ability to generate
+code solutions at different difficulty levels for introductory programming
+courses. We conducted an experiment where ChatGPT was tested on 127 randomly
+selected programming problems provided by Kattis, an automatic software grading
+tool for computer science programs, often used in higher education. The results
+showed that ChatGPT independently could solve 19 out of 127 programming tasks
+generated and assessed by Kattis. Further, ChatGPT was found to be able to
+generate accurate code solutions for simple problems but encountered
+difficulties with more complex programming tasks. The results contribute to the
+ongoing debate on the utility of AI-powered tools in programming education."
+2023-05-25,Transformative Effects of ChatGPT on Modern Education: Emerging Era of AI Chatbots,"Sukhpal Singh Gill, Minxian Xu, Panos Patros, Huaming Wu, Rupinder Kaur, Kamalpreet Kaur, Stephanie Fuller, Manmeet Singh, Priyansh Arora, Ajith Kumar Parlikad, Vlado Stankovski, Ajith Abraham, Soumya K. Ghosh, Hanan Lutfiyya, Salil S. Kanhere, Rami Bahsoon, Omer Rana, Schahram Dustdar, Rizos Sakellariou, Steve Uhlig, Rajkumar Buyya","ChatGPT, an AI-based chatbot, was released to provide coherent and useful
+replies based on analysis of large volumes of data. In this article, leading
+scientists, researchers and engineers discuss the transformative effects of
+ChatGPT on modern education. This research seeks to improve our knowledge of
+ChatGPT capabilities and its use in the education sector, identifying potential
+concerns and challenges. Our preliminary evaluation concludes that ChatGPT
+performed differently in each subject area including finance, coding and maths.
+While ChatGPT has the ability to help educators by creating instructional
+content, offering suggestions and acting as an online educator to learners by
+answering questions and promoting group work, there are clear drawbacks in its
+use, such as the possibility of producing inaccurate or false data and
+circumventing duplicate content (plagiarism) detectors where originality is
+essential. The often reported hallucinations within Generative AI in general,
+and also relevant for ChatGPT, can render its use of limited benefit where
+accuracy is essential. What ChatGPT lacks is a stochastic measure to help
+provide sincere and sensitive communication with its users. Academic
+regulations and evaluation practices used in educational institutions need to
+be updated, should ChatGPT be used as a tool in education. To address the
+transformative effects of ChatGPT on the learning environment, educating
+teachers and students alike about its capabilities and limitations will be
+crucial."
+2024-05-01,ChatGPT in Data Visualization Education: A Student Perspective,"Nam Wook Kim, Hyung-Kwon Ko, Grace Myers, Benjamin Bach","Unlike traditional educational chatbots that rely on pre-programmed
+responses, large-language model-driven chatbots, such as ChatGPT, demonstrate
+remarkable versatility and have the potential to serve as a dynamic resource
+for addressing student needs from understanding advanced concepts to solving
+complex problems. This work explores the impact of such technology on student
+learning in an interdisciplinary, project-oriented data visualization course.
+Throughout the semester, students engaged with ChatGPT across four distinct
+projects, including data visualizations and implementing them using a variety
+of tools including Tableau, D3, and Vega-lite. We collected conversation logs
+and reflection surveys from the students after each assignment. In addition, we
+conducted interviews with selected students to gain deeper insights into their
+overall experiences with ChatGPT. Our analysis examined the advantages and
+barriers of using ChatGPT, students' querying behavior, the types of assistance
+sought, and its impact on assignment outcomes and engagement. Based on the
+findings, we discuss design considerations for an educational solution that
+goes beyond the basic interface of ChatGPT, specifically tailored for data
+visualization education."
+2023-08-21,Unreflected Acceptance -- Investigating the Negative Consequences of ChatGPT-Assisted Problem Solving in Physics Education,"Lars Krupp, Steffen Steinert, Maximilian Kiefer-Emmanouilidis, Karina E. Avila, Paul Lukowicz, Jochen Kuhn, Stefan Küchemann, Jakob Karolus","Large language models (LLMs) have recently gained popularity. However, the
+impact of their general availability through ChatGPT on sensitive areas of
+everyday life, such as education, remains unclear. Nevertheless, the societal
+impact on established educational methods is already being experienced by both
+students and educators. Our work focuses on higher physics education and
+examines problem solving strategies. In a study, students with a background in
+physics were assigned to solve physics exercises, with one group having access
+to an internet search engine (N=12) and the other group being allowed to use
+ChatGPT (N=27). We evaluated their performance, strategies, and interaction
+with the provided tools. Our results showed that nearly half of the solutions
+provided with the support of ChatGPT were mistakenly assumed to be correct by
+the students, indicating that they overly trusted ChatGPT even in their field
+of expertise. Likewise, in 42% of cases, students used copy & paste to query
+ChatGPT -- an approach only used in 4% of search engine queries -- highlighting
+the stark differences in interaction behavior between the groups and indicating
+limited reflection when using ChatGPT. In our work, we demonstrated a need to
+(1) guide students on how to interact with LLMs and (2) create awareness of
+potential shortcomings for users."
+2023-06-02,ChatGPT is a Remarkable Tool -- For Experts,"Amos Azaria, Rina Azoulay, Shulamit Reches","This paper investigates the capabilities of ChatGPT as an automated assistant
+in diverse domains, including scientific writing, mathematics, education,
+programming, and healthcare. We explore the potential of ChatGPT to enhance
+productivity, streamline problem-solving processes, and improve writing style.
+Furthermore, we highlight the potential risks associated with excessive
+reliance on ChatGPT in these fields. These limitations encompass factors like
+incorrect and fictitious responses, inaccuracies in code, limited logical
+reasoning abilities, overconfidence, and critical ethical concerns of
+copyrights and privacy violation. We outline areas and objectives where ChatGPT
+proves beneficial, applications where it should be used judiciously, and
+scenarios where its reliability may be limited. In light of observed
+limitations, and given that the tool's fundamental errors may pose a special
+challenge for non-experts, ChatGPT should be used with a strategic methodology.
+By drawing from comprehensive experimental studies, we offer methods and flow
+charts for effectively using ChatGPT. Our recommendations emphasize iterative
+interaction with ChatGPT and independent verification of its outputs.
+Considering the importance of utilizing ChatGPT judiciously and with expertise,
+we recommend its usage for experts who are well-versed in the respective
+domains."
+2024-02-23,Economic and Financial Learning with Artificial Intelligence: A Mixed-Methods Study on ChatGPT,Holger Arndt,"In the evolving landscape of digital education, chatbots have emerged as
+potential game-changers, promising personalized and adaptive learning
+experiences. This research undertook an in-depth exploration of ChatGPT's
+potential as an educational tool, focusing on user perceptions, experiences and
+learning outcomes. Through a mixed-methods approach, a diverse group of 102
+participants engaged with ChatGPT, providing insights pre- and postinteraction.
+The study reveals a notable positive shift in perceptions after exposure,
+underscoring the efficacy of ChatGPT. However, challenges such as prompting
+effectiveness and information accuracy emerged as pivotal concerns. Introducing
+the concept of 'AI-learning-competence', this study lays the groundwork for
+future research, emphasizing the need for formal training and pedagogical
+integration of AI tools."
+2023-06-23,ChatGPT may excel in States Medical Licensing Examination but falters in basic Linear Algebra,"Eli Bagno, Thierry Dana-Picard, Shulamit Reches","The emergence of ChatGPT has been rapid, and although it has demonstrated
+positive impacts in certain domains, its influence is not universally
+advantageous. Our analysis focuses on ChatGPT's capabilities in Mathematics
+Education, particularly in teaching basic Linear Algebra. While there are
+instances where ChatGPT delivers accurate and well-motivated answers, it is
+crucial to recognize numerous cases where it makes significant mathematical
+errors and fails in logical inference. These occurrences raise concerns
+regarding the system's genuine understanding of mathematics, as it appears to
+rely more on visual patterns rather than true comprehension. Additionally, the
+suitability of ChatGPT as a teacher for students also warrants consideration."
+2023-10-14,Chatbot-supported Thesis Writing: An Autoethnographic Report,"Nicolas Schwenke, Heinrich Söbke, Eckhard Kraft","The release of the large language model based chatbot ChatGPT in November
+2022 has brought considerable attention to the subject of artificial
+intelligence, not only in the public. From the perspective of higher education,
+ChatGPT challenges various learning and assessment formats as it significantly
+reduces the effectiveness of their learning and assessment functionalities. In
+particular, ChatGPT might be applied to formats that require learners to
+generate text, such as bachelor theses or student research papers. Accordingly,
+the research question arises to what extent writing of bachelor theses is still
+a valid learning and assessment format. Correspondingly, in this study, the
+first author was asked to write his bachelor's thesis exploiting ChatGPT. For
+tracing the impact of ChatGPT, methodically an autoethnographic approach was
+used. First, all considerations on the potential use of ChatGPT were documented
+in logs and secondly, all ChatGPT chats were logged. Both logs and chat
+histories were analyzed and are presented along to the recommendations for
+students regarding the use of ChatGPT suggested by Gimpel et al. (2023). In
+conclusion, ChatGPT is beneficial in thesis writing during various activities,
+such as brainstorming, structuring and text revision. However, there arise
+limitations, e.g., in referencing. Thus, ChatGPT requires a continuous
+validation of the outcomes generated fostering learning. Currently, ChatGPT is
+to be valued as a beneficial tool in thesis writing. However, writing a
+conclusive thesis still requires the learner's meaningful engagement.
+Accordingly, writing a thesis is still a valid learning and assessment format.
+With further releases of ChatGPT, an increase in capabilities is to be expected
+and the research question needs to be reevaluated from time to time."
+2024-01-18,Using ChatGPT for Science Learning: A Study on Pre-service Teachers' Lesson Planning,"Gyeong-Geon Lee, Xiaoming Zhai","Despite the buzz around ChatGPT's potential, empirical studies exploring its
+actual utility in the classroom for learning remain scarce. This study aims to
+fill this gap by analyzing the lesson plans developed by 29 pre-service
+elementary teachers from a Korean university and assessing how they integrated
+ChatGPT into science learning activities. We first examined how the subject
+domains and teaching and learning methods/strategies were integrated with
+ChatGPT in the lesson plans. We then evaluated the lesson plans using a
+modified TPACK-based rubric. We further examined pre-service teachers'
+perceptions and concerns about integrating ChatGPT into science learning.
+Results show diverse applications of ChatGPT in different science domains.
+Fourteen types of teaching and learning methods/strategies were identified in
+the lesson plans. On average, the pre-service teachers' lesson plans scored
+high on the modified TPACK-based rubric, indicating a reasonable envisage of
+integrating ChatGPT into science learning, particularly in 'instructional
+strategies & ChatGPT'. However, they scored relatively lower on exploiting
+ChatGPT's functions toward its full potential compared to other aspects. The
+study also identifies both appropriate and inappropriate use cases of ChatGPT
+in lesson planning. Pre-service teachers anticipated ChatGPT to afford
+high-quality questioning, self-directed learning, individualized learning
+support, and formative assessment. Meanwhile, they also expressed concerns
+about its accuracy and the risks that students may be overly dependent on
+ChatGPT. They further suggested solutions to systemizing classroom dynamics
+between teachers and students. The study underscores the need for more research
+on the roles of generative AI in actual classroom settings and provides
+insights for future AI-integrated science learning."
+2023-05-12,How do physics students evaluate artificial intelligence responses on comprehension questions? A study on the perceived scientific accuracy and linguistic quality,"Merten Nikolay Dahlkemper, Simon Zacharias Lahme, Pascal Klein","This study aimed at evaluating how students perceive the linguistic quality
+and scientific accuracy of ChatGPT responses to physics comprehension
+questions. A total of 102 first- and second-year physics students were
+confronted with three questions of progressing difficulty from introductory
+mechanics (rolling motion, waves, and fluid dynamics). Each question was
+presented with four different responses. All responses were attributed to
+ChatGPT, but in reality one sample solution was created by the researchers. All
+ChatGPT responses obtained in this study were wrong, imprecise, incomplete, or
+misleading. We found little differences in the perceived linguistic quality
+between ChatGPT responses and the sample solution. However, the students rated
+the overall scientific accuracy of the responses significantly differently,
+with the sample solution being rated best for the questions of low and medium
+difficulty. The discrepancy between the sample solution and the ChatGPT
+responses increased with the level of self-assessed knowledge of the question
+content. For the question of highest difficulty (fluid dynamics) that was
+unknown to most students, a ChatGPT response was rated just as good as the
+sample solution. Thus, this study provides data on the students' perception of
+ChatGPT responses and the factors influencing their perception. The results
+highlight the need for careful evaluation of ChatGPT responses both by
+instructors and students, particularly regarding scientific accuracy.
+Therefore, future research could explore the potential of similar ""spot the
+bot""-activities in physics education to foster students' critical thinking
+skills."
+2023-12-05,ChatGPT in the Classroom: Boon or Bane for Physics Students' Academic Performance?,"Manuel G. Forero, H. J. Herrera-Suárez","This study investigates the influence of ChatGPT, an AI-based language model,
+on student performance in a physics course. We conducted an experimental
+analysis with two cohorts of students in a second-semester engineering physics
+course. The control group (Physics 2 2022B) used traditional teaching methods,
+while the experimental group (Physics 2 2023A) integrated ChatGPT as a learning
+tool. Our results indicate that the use of ChatGPT led to a significant
+decrease in student performance, as evidenced by lower grades and negative Hake
+factors compared to the control group. In addition, a survey of students
+revealed conflicting perceptions of the usefulness of ChatGPT in teaching
+physics. While most recognized its usefulness in understanding concepts and
+providing information, concerns were raised about its potential to reduce
+critical thinking and independent learning. These findings suggest that while
+ChatGPT can be a useful tool, it should be used with caution and as a
+supplement to traditional teaching methods, rather than as a stand-alone
+solution. The study underlines the importance of critical and reflective use of
+AI tools in educational settings and highlights the irreplaceable role of
+teachers in providing comprehensive educational support."
+2024-01-22,Can ChatGPT Play the Role of a Teaching Assistant in an Introductory Programming Course?,"Anishka, Atharva Mehta, Nipun Gupta, Aarav Balachandran, Dhruv Kumar, Pankaj Jalote","The emergence of Large language models (LLMs) is expected to have a major
+impact on education. This paper explores the potential of using ChatGPT, an
+LLM, as a virtual Teaching Assistant (TA) in an Introductory Programming
+Course. We evaluate ChatGPT's capabilities by comparing its performance with
+that of human TAs in some of the important TA functions. The TA functions which
+we focus on include (1) grading student code submissions, and (2) providing
+feedback to undergraduate students in an introductory programming course.
+Firstly, we assess ChatGPT's proficiency in grading student code submissions
+using a given grading rubric and compare its performance with the grades
+assigned by human TAs. Secondly, we analyze the quality and relevance of the
+feedback provided by ChatGPT. This evaluation considers how well ChatGPT
+addresses mistakes and offers suggestions for improvement in student solutions
+from both code correctness and code quality perspectives. We conclude with a
+discussion on the implications of integrating ChatGPT into computing education
+for automated grading, personalized learning experiences, and instructional
+support."
+2024-02-22,ChatGPT as a Software Development Bot: A Project-based Study,"Muhammad Waseem, Teerath Das, Aakash Ahmad, Peng Liang, Mahdi Fehmideh, Tommi Mikkonen","Artificial Intelligence has demonstrated its significance in software
+engineering through notable improvements in productivity, accuracy,
+collaboration, and learning outcomes. This study examines the impact of
+generative AI tools, specifically ChatGPT, on the software development
+experiences of undergraduate students. Over a three-month project with seven
+students, ChatGPT was used as a support tool. The research focused on assessing
+ChatGPT's effectiveness, benefits, limitations, and its influence on learning.
+Results showed that ChatGPT significantly addresses skill gaps in software
+development education, enhancing efficiency, accuracy, and collaboration. It
+also improved participants' fundamental understanding and soft skills. The
+study highlights the importance of incorporating AI tools like ChatGPT in
+education to bridge skill gaps and increase productivity, but stresses the need
+for a balanced approach to technology use. Future research should focus on
+optimizing ChatGPT's application in various development contexts to maximize
+learning and address specific challenges."
+2023-05-04,Can ChatGPT Pass An Introductory Level Functional Language Programming Course?,"Chuqin Geng, Yihan Zhang, Brigitte Pientka, Xujie Si","The recent introduction of ChatGPT has drawn significant attention from both
+industry and academia due to its impressive capabilities in solving a diverse
+range of tasks, including language translation, text summarization, and
+computer programming. Its capability for writing, modifying, and even
+correcting code together with its ease of use and access is already
+dramatically impacting computer science education. This paper aims to explore
+how well ChatGPT can perform in an introductory-level functional language
+programming course. In our systematic evaluation, we treated ChatGPT as one of
+our students and demonstrated that it can achieve a grade B- and its rank in
+the class is 155 out of 314 students overall. Our comprehensive evaluation
+provides valuable insights into ChatGPT's impact from both student and
+instructor perspectives. Additionally, we identify several potential benefits
+that ChatGPT can offer to both groups. Overall, we believe that this study
+significantly clarifies and advances our understanding of ChatGPT's
+capabilities and potential impact on computer science education."
+2023-11-02,"""Close...but not as good as an educator."" -- Using ChatGPT to provide formative feedback in large-class collaborative learning","Cory Dal Ponte, Sathana Dushyanthen, Kayley Lyons","Delivering personalised, formative feedback to multiple problem-based
+learning groups in a short time period can be almost impossible. We employed
+ChatGPT to provide personalised formative feedback in a one-hour Zoom break-out
+room activity that taught practicing health professionals how to formulate
+evaluation plans for digital health initiatives. Learners completed an
+evaluation survey that included Likert scales and open-ended questions that
+were analysed. Half of the 44 survey respondents had never used ChatGPT before.
+Overall, respondents found the feedback favourable, described a wide range of
+group dynamics, and had adaptive responses to the feedback, yet only three
+groups used the feedback loop to improve their evaluation plans. Future
+educators can learn from our experience including engineering prompts,
+providing instructions on how to use ChatGPT, and scaffolding optimal group
+interactions with ChatGPT. Future researchers should explore the influence of
+ChatGPT on group dynamics and derive design principles for the use of ChatGPT
+in collaborative learning."
+2023-07-10,Can ChatGPT pass the Vietnamese National High School Graduation Examination?,"Xuan-Quy Dao, Ngoc-Bich Le, Xuan-Dung Phan, Bac-Bien Ngo","This research article highlights the potential of AI-powered chatbots in
+education and presents the results of using ChatGPT, a large language model, to
+complete the Vietnamese National High School Graduation Examination (VNHSGE).
+The study dataset included 30 essays in the literature test case and 1,700
+multiple-choice questions designed for other subjects. The results showed that
+ChatGPT was able to pass the examination with an average score of 6-7,
+demonstrating the technology's potential to revolutionize the educational
+landscape. The analysis of ChatGPT performance revealed its proficiency in a
+range of subjects, including mathematics, English, physics, chemistry, biology,
+history, geography, civic education, and literature, which suggests its
+potential to provide effective support for learners. However, further research
+is needed to assess ChatGPT performance on more complex exam questions and its
+potential to support learners in different contexts. As technology continues to
+evolve and improve, we can expect to see the use of AI tools like ChatGPT
+become increasingly common in educational settings, ultimately enhancing the
+educational experience for both students and educators."
+2023-07-20,"Performance Comparison of Large Language Models on VNHSGE English Dataset: OpenAI ChatGPT, Microsoft Bing Chat, and Google Bard",Xuan-Quy Dao,"This paper presents a performance comparison of three large language models
+(LLMs), namely OpenAI ChatGPT, Microsoft Bing Chat (BingChat), and Google Bard,
+on the VNHSGE English dataset. The performance of BingChat, Bard, and ChatGPT
+(GPT-3.5) is 92.4\%, 86\%, and 79.2\%, respectively. The results show that
+BingChat is better than ChatGPT and Bard. Therefore, BingChat and Bard can
+replace ChatGPT while ChatGPT is not yet officially available in Vietnam. The
+results also indicate that BingChat, Bard and ChatGPT outperform Vietnamese
+students in English language proficiency. The findings of this study contribute
+to the understanding of the potential of LLMs in English language education.
+The remarkable performance of ChatGPT, BingChat, and Bard demonstrates their
+potential as effective tools for teaching and learning English at the high
+school level."
+2023-04-29,ChatGPT in education: A discourse analysis of worries and concerns on social media,"Lingyao Li, Zihui Ma, Lizhou Fan, Sanggyu Lee, Huizi Yu, Libby Hemphill","The rapid advancements in generative AI models present new opportunities in
+the education sector. However, it is imperative to acknowledge and address the
+potential risks and concerns that may arise with their use. We analyzed Twitter
+data to identify key concerns related to the use of ChatGPT in education. We
+employed BERT-based topic modeling to conduct a discourse analysis and social
+network analysis to identify influential users in the conversation. While
+Twitter users generally ex-pressed a positive attitude towards the use of
+ChatGPT, their concerns converged to five specific categories: academic
+integrity, impact on learning outcomes and skill development, limitation of
+capabilities, policy and social concerns, and workforce challenges. We also
+found that users from the tech, education, and media fields were often
+implicated in the conversation, while education and tech individual users led
+the discussion of concerns. Based on these findings, the study provides several
+implications for policymakers, tech companies and individuals, educators, and
+media agencies. In summary, our study underscores the importance of responsible
+and ethical use of AI in education and highlights the need for collaboration
+among stakeholders to regulate AI policy."
+2023-05-25,"Waiting, Banning, and Embracing: An Empirical Analysis of Adapting Policies for Generative AI in Higher Education","Ping Xiao, Yuanyuan Chen, Weining Bao","Generative AI tools such as ChatGPT have recently gained significant
+attention in higher education. This study aims to understand how universities
+establish policies regarding the use of AI tools and explore the factors that
+influence their decisions. Our study examines ChatGPT policies implemented at
+universities around the world, including their existence, content, and issuance
+dates. Specifically, we analyzed the top 500 universities according to the 2022
+QS World University Rankings. Our findings indicate that there is significant
+variation in university policies. Less than one-third of the universities
+included in the study had implemented ChatGPT policies. Of the universities
+with ChatGPT policies, approximately 67 percent embraced ChatGPT in teaching
+and learning, more than twice the number of universities that banned it. The
+majority of the universities that ban the use of ChatGPT in assessments allow
+individual instructors to deviate from this restrictive policy. Our empirical
+analysis identifies several factors that are significantly and positively
+correlated with a university's likelihood of having a ChatGPT policy, including
+the university's academic reputation score, being in an English-speaking
+country, and the general public attitudes toward ChatGPT. In addition, we found
+that a university's likelihood of having a ban policy is positively associated
+with faculty student ratio, citations, and the English-speaking country dummy,
+while negatively associated with the number of peer universities within the
+same country that have banned ChatGPT. We discuss the challenges faced by
+universities based our empirical findings."
+2023-10-02,Educational data augmentation in physics education research using ChatGPT,"Fabian Kieser, Peter Wulff, Jochen Kuhn, Stefan Küchemann","Generative AI technologies such as large language models show novel
+potentials to enhance educational research. For example, generative large
+language models were shown to be capable to solve quantitative reasoning tasks
+in physics and concept tests such as the Force Concept Inventory. Given the
+importance of such concept inventories for physics education research, and the
+challenges in developing them such as field testing with representative
+populations, this study seeks to examine to what extent a generative large
+language model could be utilized to generate a synthetic data set for the FCI
+that exhibits content-related variability in responses. We use the recently
+introduced ChatGPT based on the GPT 4 generative large language model and
+investigate to what extent ChatGPT could solve the FCI accurately (RQ1) and
+could be prompted to solve the FCI as-if it were a student belonging to a
+different cohort (RQ2). Furthermore, we study, to what extent ChatGPT could be
+prompted to solve the FCI as-if it were a student having a different force- and
+mechanics-related misconception (RQ3). In alignment with other research, we
+found the ChatGPT could accurately solve the FCI. We furthermore found that
+prompting ChatGPT to respond to the inventory as-if it belonged to a different
+cohort yielded no variance in responses, however, responding as-if it had a
+certain misconception introduced much variance in responses that approximate
+real human responses on the FCI in some regards."
+2024-03-13,ChatGPT as a tool for honing teachers' Socratic dialogue skills,"Bor Gregorcic, Giulia Polverini, Andreja Sarlah","In this proof-of-concept paper, we propose a specific kind of pedagogical use
+of ChatGPT - to help teachers practice their Socratic dialogue skills. We
+follow up on the previously published paper ""ChatGPT and the frustrated
+Socrates"" by re-examining ChatGPT's ability to engage in Socratic dialogue in
+the role of a physics student. While in late 2022 its ability to engage in such
+dialogue was poor, we see significant advancements in the chatbot's ability to
+respond to leading questions asked by a human teacher. We suggest that ChatGPT
+now has the potential to be used in teacher training to help pre- or in-service
+physics teachers hone their Socratic dialogue skills. In the paper and its
+supplemental material, we provide illustrative examples of Socratic dialogues
+with ChatGPT and present a report on a pilot activity involving pre-service
+physics and mathematics teachers conversing with it in a Socratic fashion."
+2024-05-15,Intelligent Tutor: Leveraging ChatGPT and Microsoft Copilot Studio to Deliver a Generative AI Student Support and Feedback System within Teams,Wei-Yu Chen,"This study explores the integration of the ChatGPT API with GPT-4 model and
+Microsoft Copilot Studio on the Microsoft Teams platform to develop an
+intelligent tutoring system. Designed to provide instant support to students,
+the system dynamically adjusts educational content in response to the learners'
+progress and feedback. Utilizing advancements in natural language processing
+and machine learning, it interprets student inquiries, offers tailored
+feedback, and facilitates the educational journey. Initial implementation
+highlights the system's potential in boosting students' motivation and
+engagement, while equipping educators with critical insights into the learning
+process, thus promoting tailored educational experiences and enhancing
+instructional effectiveness."
+2022-12-19,ChatGPT: The End of Online Exam Integrity?,Teo Susnjak,"This study evaluated the ability of ChatGPT, a recently developed artificial
+intelligence (AI) agent, to perform high-level cognitive tasks and produce text
+that is indistinguishable from human-generated text. This capacity raises
+concerns about the potential use of ChatGPT as a tool for academic misconduct
+in online exams. The study found that ChatGPT is capable of exhibiting critical
+thinking skills and generating highly realistic text with minimal input, making
+it a potential threat to the integrity of online exams, particularly in
+tertiary education settings where such exams are becoming more prevalent.
+Returning to invigilated and oral exams could form part of the solution, while
+using advanced proctoring techniques and AI-text output detectors may be
+effective in addressing this issue, they are not likely to be foolproof
+solutions. Further research is needed to fully understand the implications of
+large language models like ChatGPT and to devise strategies for combating the
+risk of cheating using these tools. It is crucial for educators and
+institutions to be aware of the possibility of ChatGPT being used for cheating
+and to investigate measures to address it in order to maintain the fairness and
+validity of online exams for all students."
+2023-05-12,Enhancing Chemistry Learning with ChatGPT and Bing Chat as Agents to Think With: A Comparative Case Study,Renato P. dos Santos,"This study explores the potential of Generative AI chatbots (GenAIbots) such
+as ChatGPT and Bing Chat, in Chemistry education, within a constructionist
+theoretical framework. A single-case study methodology was used to analyse
+extensive interaction logs between students and both AI systems in simulated
+Chemistry learning experiences. The results highlight the ability of ChatGPT
+and Bing Chat to act as 'agents-to-think-with', fostering critical thinking,
+problem-solving, concept comprehension, creativity, and personalised learning
+experiences. By employing a Socratic-like questioning approach, GenAIbots
+nurture students' curiosity and promote active learning. The study emphasises
+the significance of prompt crafting, a technique to elicit desired responses
+from GenAIbots, fostering iterative reflections and interactions. It underlines
+the need for comprehensive educator training to effectively integrate these
+tools into classrooms. The study concludes that while ChatGPT and Bing Chat as
+agents-to-think-with offer promising avenues to revolutionise STEM education
+through a constructionist lens, fostering a more interactive, inclusive
+learning environment and promoting deeper comprehension and critical thinking
+in students across diverse Chemistry topics, ChatGPT consistently outperformed
+Bing Chat, providing more comprehensive, detailed, and accurate responses and
+skillfully addressing nuances and context."
+2023-08-10,Developing Effective Educational Chatbots with ChatGPT prompts: Insights from Preliminary Tests in a Case Study on Social Media Literacy (with appendix),"Cansu Koyuturk, Mona Yavari, Emily Theophilou, Sathya Bursic, Gregor Donabauer, Alessia Telari, Alessia Testa, Raffaele Boiano, Alessandro Gabbiadini, Davinia Hernandez-Leo, Martin Ruskov, Dimitri Ognibene","Educational chatbots come with a promise of interactive and personalized
+learning experiences, yet their development has been limited by the restricted
+free interaction capabilities of available platforms and the difficulty of
+encoding knowledge in a suitable format. Recent advances in language learning
+models with zero-shot learning capabilities, such as ChatGPT, suggest a new
+possibility for developing educational chatbots using a prompt-based approach.
+We present a case study with a simple system that enables mixed-turn chatbot
+interactions and discuss the insights and preliminary guidelines obtained from
+initial tests. We examine ChatGPT's ability to pursue multiple interconnected
+learning objectives, adapt the educational activity to users' characteristics,
+such as culture, age, and level of education, and its ability to use diverse
+educational strategies and conversational styles. Although the results are
+encouraging, challenges are posed by the limited history maintained for the
+conversation and the highly structured form of responses by ChatGPT, as well as
+their variability, which can lead to an unexpected switch of the chatbot's role
+from a teacher to a therapist. We provide some initial guidelines to address
+these issues and to facilitate the development of effective educational
+chatbots."
+2023-07-27,Performance of ChatGPT on USMLE: Unlocking the Potential of Large Language Models for AI-Assisted Medical Education,"Prabin Sharma, Kisan Thapa, Dikshya Thapa, Prastab Dhakal, Mala Deep Upadhaya, Santosh Adhikari, Salik Ram Khanal","Artificial intelligence is gaining traction in more ways than ever before.
+The popularity of language models and AI-based businesses has soared since
+ChatGPT was made available to the general public via OpenAI. It is becoming
+increasingly common for people to use ChatGPT both professionally and
+personally. Considering the widespread use of ChatGPT and the reliance people
+place on it, this study determined how reliable ChatGPT can be for answering
+complex medical and clinical questions. Harvard University gross anatomy along
+with the United States Medical Licensing Examination (USMLE) questionnaire were
+used to accomplish the objective. The paper evaluated the obtained results
+using a 2-way ANOVA and posthoc analysis. Both showed systematic covariation
+between format and prompt. Furthermore, the physician adjudicators
+independently rated the outcome's accuracy, concordance, and insight. As a
+result of the analysis, ChatGPT-generated answers were found to be more
+context-oriented and represented a better model for deductive reasoning than
+regular Google search results. Furthermore, ChatGPT obtained 58.8% on logical
+questions and 60% on ethical questions. This means that the ChatGPT is
+approaching the passing range for logical questions and has crossed the
+threshold for ethical questions. The paper believes ChatGPT and other language
+learning models can be invaluable tools for e-learners; however, the study
+suggests that there is still room to improve their accuracy. In order to
+improve ChatGPT's performance in the future, further research is needed to
+better understand how it can answer different types of questions."
+2023-11-26,ChatGPT and Beyond: The Generative AI Revolution in Education,Mohammad AL-Smadi,"The wide adoption and usage of generative artificial intelligence (AI)
+models, particularly ChatGPT, has sparked a surge in research exploring their
+potential applications in the educational landscape. This survey examines
+academic literature published between November, 2022, and July, 2023,
+specifically targeting high-impact research from Scopus-indexed Q1 and Q2
+journals. This survey delves into the practical applications and implications
+of generative AI models across a diverse range of educational contexts. Through
+a comprehensive and rigorous evaluation of recent academic literature, this
+survey seeks to illuminate the evolving role of generative AI models,
+particularly ChatGPT, in education. By shedding light on the potential
+benefits, challenges, and emerging trends in this dynamic field, the survey
+endeavors to contribute to the understanding of the nexus between artificial
+intelligence and education. The findings of this review will empower educators,
+researchers, and policymakers to make informed decisions about the integration
+of AI technologies into learning environments."
+2023-07-30,ChatGPT is Good but Bing Chat is Better for Vietnamese Students,"Xuan-Quy Dao, Ngoc-Bich Le","This study examines the efficacy of two SOTA large language models (LLMs),
+namely ChatGPT and Microsoft Bing Chat (BingChat), in catering to the needs of
+Vietnamese students. Although ChatGPT exhibits proficiency in multiple
+disciplines, Bing Chat emerges as the more advantageous option. We conduct a
+comparative analysis of their academic achievements in various disciplines,
+encompassing mathematics, literature, English language, physics, chemistry,
+biology, history, geography, and civic education. The results of our study
+suggest that BingChat demonstrates superior performance compared to ChatGPT
+across a wide range of subjects, with the exception of literature, where
+ChatGPT exhibits better performance. Additionally, BingChat utilizes the more
+advanced GPT-4 technology in contrast to ChatGPT, which is built upon GPT-3.5.
+This allows BingChat to improve to comprehension, reasoning and generation of
+creative and informative text. Moreover, the fact that BingChat is accessible
+in Vietnam and its integration of hyperlinks and citations within responses
+serve to reinforce its superiority. In our analysis, it is evident that while
+ChatGPT exhibits praiseworthy qualities, BingChat presents a more apdated
+solutions for Vietnamese students."
+2023-11-02,AI-assisted Learning for Electronic Engineering Courses in High Education,"Thanh Nguyen Ngoc, Quang Nhat Tran, Arthur Tang, Bao Nguyen, Thuy Nguyen, Thanh Pham","This study evaluates the efficacy of ChatGPT as an AI teaching and learning
+support tool in an integrated circuit systems course at a higher education
+institution in an Asian country. Various question types were completed, and
+ChatGPT responses were assessed to gain valuable insights for further
+investigation. The objective is to assess ChatGPT's ability to provide
+insights, personalized support, and interactive learning experiences in
+engineering education. The study includes the evaluation and reflection of
+different stakeholders: students, lecturers, and engineers. The findings of
+this study shed light on the benefits and limitations of ChatGPT as an AI tool,
+paving the way for innovative learning approaches in technical disciplines.
+Furthermore, the study contributes to our understanding of how digital
+transformation is likely to unfold in the education sector."
+2023-05-23,"ChatGPT, Can You Generate Solutions for my Coding Exercises? An Evaluation on its Effectiveness in an undergraduate Java Programming Course","Eng Lieh Ouh, Benjamin Kok Siew Gan, Kyong Jin Shim, Swavek Wlodkowski","In this study, we assess the efficacy of employing the ChatGPT language model
+to generate solutions for coding exercises within an undergraduate Java
+programming course. ChatGPT, a large-scale, deep learning-driven natural
+language processing model, is capable of producing programming code based on
+textual input. Our evaluation involves analyzing ChatGPT-generated solutions
+for 80 diverse programming exercises and comparing them to the correct
+solutions. Our findings indicate that ChatGPT accurately generates Java
+programming solutions, which are characterized by high readability and
+well-structured organization. Additionally, the model can produce alternative,
+memory-efficient solutions. However, as a natural language processing model,
+ChatGPT struggles with coding exercises containing non-textual descriptions or
+class files, leading to invalid solutions. In conclusion, ChatGPT holds
+potential as a valuable tool for students seeking to overcome programming
+challenges and explore alternative approaches to solving coding problems. By
+understanding its limitations, educators can design coding exercises that
+minimize the potential for misuse as a cheating aid while maintaining their
+validity as assessment tools."
+2024-05-31,A Perspective Study on Chinese Social Media regarding LLM for Education and Beyond,"Yao Tian, Chengwei Tong, Lik-Hang Lee, Reza Hadi Mogavi, Yong Liao, Pengyuan Zhou","The application of AI-powered tools has piqued the interest of many fields,
+particularly in the academic community. This study uses ChatGPT, currently the
+most powerful and popular AI tool, as a representative example to analyze how
+the Chinese public perceives the potential of large language models (LLMs) for
+educational and general purposes. Although facing accessibility challenges, we
+found that the number of discussions on ChatGPT per month is 16 times that of
+Ernie Bot developed by Baidu, the most popular alternative product to ChatGPT
+in the mainland, making ChatGPT a more suitable subject for our analysis. The
+study also serves as the first effort to investigate the changes in public
+opinion as AI technologies become more advanced and intelligent. The analysis
+reveals that, upon first encounters with advanced AI that was not yet highly
+capable, some social media users believed that AI advancements would benefit
+education and society, while others feared that advanced AI, like ChatGPT,
+would make humans feel inferior and lead to problems such as cheating and a
+decline in moral principles. The majority of users remained neutral.
+Interestingly, with the rapid development and improvement of AI capabilities,
+public attitudes have tended to shift in a positive direction. We present a
+thorough analysis of the trending shift and a roadmap to ensure the ethical
+application of ChatGPT-like models in education and beyond."
+2023-02-14,Learning gain differences between ChatGPT and human tutor generated algebra hints,"Zachary A. Pardos, Shreya Bhandari","Large Language Models (LLMs), such as ChatGPT, are quickly advancing AI to
+the frontiers of practical consumer use and leading industries to re-evaluate
+how they allocate resources for content production. Authoring of open
+educational resources and hint content within adaptive tutoring systems is
+labor intensive. Should LLMs like ChatGPT produce educational content on par
+with human-authored content, the implications would be significant for further
+scaling of computer tutoring system approaches. In this paper, we conduct the
+first learning gain evaluation of ChatGPT by comparing the efficacy of its
+hints with hints authored by human tutors with 77 participants across two
+algebra topic areas, Elementary Algebra and Intermediate Algebra. We find that
+70% of hints produced by ChatGPT passed our manual quality checks and that both
+human and ChatGPT conditions produced positive learning gains. However, gains
+were only statistically significant for human tutor created hints. Learning
+gains from human-created hints were substantially and statistically
+significantly higher than ChatGPT hints in both topic areas, though ChatGPT
+participants in the Intermediate Algebra experiment were near ceiling and not
+even with the control at pre-test. We discuss the limitations of our study and
+suggest several future directions for the field. Problem and hint content used
+in the experiment is provided for replicability."
+2023-05-23,Embrace Opportunities and Face Challenges: Using ChatGPT in Undergraduate Students' Collaborative Interdisciplinary Learning,"Gaoxia Zhu, Xiuyi Fan, Chenyu Hou, Tianlong Zhong, Peter Seow, Annabel Chen Shen-Hsing, Preman Rajalingam, Low Kin Yew, Tan Lay Poh","ChatGPT, launched in November 2022, has gained widespread attention from
+students and educators globally, with an online report by Hu (2023) stating it
+as the fastest-growing consumer application in history. While discussions on
+the use of ChatGPT in higher education are abundant, empirical studies on its
+impact on collaborative interdisciplinary learning are rare. To investigate its
+potential, we conducted a quasi-experimental study with 130 undergraduate
+students (STEM and non-STEM) learning digital literacy with or without ChatGPT
+over two weeks. Weekly surveys were conducted on collaborative
+interdisciplinary problem-solving, physical and cognitive engagement, and
+individual reflections on ChatGPT use. Analysis of survey responses showed
+significant main effects of topics on collaborative interdisciplinary
+problem-solving and physical and cognitive engagement, a marginal interaction
+effect between disciplinary backgrounds and ChatGPT conditions for cognitive
+engagement, and a significant interaction effect for physical engagement.
+Sentiment analysis of student reflections suggested no significant difference
+between STEM and non-STEM students' opinions towards ChatGPT. Qualitative
+analysis of reflections generated eight positive themes, including efficiency,
+addressing knowledge gaps, and generating human-like responses, and eight
+negative themes, including generic responses, lack of innovation, and
+counterproductive to self-discipline and thinking. Our findings suggest that
+ChatGPT use needs to be optimized by considering the topics being taught and
+the disciplinary backgrounds of students rather than applying it uniformly.
+These findings have implications for both pedagogical research and practices."
+2023-09-05,"The Impact of Artificial Intelligence on the Evolution of Digital Education: A Comparative Study of OpenAI Text Generation Tools including ChatGPT, Bing Chat, Bard, and Ernie","Negin Yazdani Motlagh, Matin Khajavi, Abbas Sharifi, Mohsen Ahmadi","In the digital era, the integration of artificial intelligence (AI) in
+education has ushered in transformative changes, redefining teaching
+methodologies, curriculum planning, and student engagement. This review paper
+delves deep into the rapidly evolving landscape of digital education by
+contrasting the capabilities and impact of OpenAI's pioneering text generation
+tools like Bing Chat, Bard, Ernie with a keen focus on the novel ChatGPT.
+Grounded in a typology that views education through the lenses of system,
+process, and result, the paper navigates the multifaceted applications of AI.
+From decentralizing global education and personalizing curriculums to digitally
+documenting competence-based outcomes, AI stands at the forefront of
+educational modernization. Highlighting ChatGPT's meteoric rise to one million
+users in just five days, the study underscores its role in democratizing
+education, fostering autodidacticism, and magnifying student engagement.
+However, with such transformative power comes the potential for misuse, as
+text-generation tools can inadvertently challenge academic integrity. By
+juxtaposing the promise and pitfalls of AI in education, this paper advocates
+for a harmonized synergy between AI tools and the educational community,
+emphasizing the urgent need for ethical guidelines, pedagogical adaptations,
+and strategic collaborations."
+2023-08-25,"Decoding ChatGPT: A Taxonomy of Existing Research, Current Challenges, and Possible Future Directions","Shahab Saquib Sohail, Faiza Farhat, Yassine Himeur, Mohammad Nadeem, Dag Øivind Madsen, Yashbir Singh, Shadi Atalla, Wathiq Mansoor","Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
+interest and attention since its launch in November 2022. It has shown
+impressive performance in various domains, including passing exams and creative
+writing. However, challenges and concerns related to biases and trust persist.
+In this work, we present a comprehensive review of over 100 Scopus-indexed
+publications on ChatGPT, aiming to provide a taxonomy of ChatGPT research and
+explore its applications. We critically analyze the existing literature,
+identifying common approaches employed in the studies. Additionally, we
+investigate diverse application areas where ChatGPT has found utility, such as
+healthcare, marketing and financial services, software engineering, academic
+and scientific writing, research and education, environmental science, and
+natural language processing. Through examining these applications, we gain
+valuable insights into the potential of ChatGPT in addressing real-world
+challenges. We also discuss crucial issues related to ChatGPT, including biases
+and trustworthiness, emphasizing the need for further research and development
+in these areas. Furthermore, we identify potential future directions for
+ChatGPT research, proposing solutions to current challenges and speculating on
+expected advancements. By fully leveraging the capabilities of ChatGPT, we can
+unlock its potential across various domains, leading to advancements in
+conversational AI and transformative impacts in society."
+2023-06-03,Befriending ChatGPT and other superchatbots: An AI-integrated take-home assessment preserving integrity,P G Kubendran Amos,"With the launch of ChatGPT, serious concerns have reasonably been raised of
+its ill-effect on the integrity of remote take-home exams. By way of mitigating
+the concern, in this study, a rather straightforward Artificial-Intelligence
+(AI)-integrated take-home assessment technique is proposed, and the outcome of
+its practice is discussed. Despite involving AI, in the form of ChatGPT, the
+assessment adheres to the convention of posing questions invoking critical
+thinking and problem solving skills. However, AI is characteristically
+integrated in this assessment by instructing the learners to employ ChatGPT as
+one of the primary sources. The learners are directed to report the use of
+ChatGPT by including both the prompts and its responses, before expressing
+their thoughts on AI-generated answers and their own concluding statement.
+These three characteristic components of the present techniques -- the handling
+of ChatGPT through the prompts, comments on the AI-responses and the concluding
+thoughts -- are evaluated to gauge the learning.
+  The proposed assessment was assigned as a take-home group activity for a
+batch of seventy eight students, divided into thirteen groups. Despite
+addressing the same questions, there was no significant overlap in the answers.
+Moreover, a wide range of approaches were adopted by the groups in handling
+ChatGPT, which in-turn rendered different responses, ultimately drawing
+distinct answers. Besides preventing the undesired use of ChatGPT by explicitly
+integrating it, the proposed assessment seemingly helped the learners question
+the accuracy of its responses. This self-realised skepticism can be expected to
+curtail blatant malpractices involving ChatGPT in the long run."
+2024-03-07,Unveiling A Hidden Risk: Exposing Educational but Malicious Repositories in GitHub,"Md Rayhanul Masud, Michalis Faloutsos","Are malicious repositories hiding under the educational label in GitHub?
+Recent studies have identified collections of GitHub repositories hosting
+malware source code with notable collaboration among the developers. Thus,
+analyzing GitHub repositories deserves inevitable attention due to its
+open-source nature providing easy access to malicious software code and
+artifacts. Here we leverage the capabilities of ChatGPT in a qualitative study
+to annotate an educational GitHub repository based on maliciousness of its
+metadata contents. Our contribution is twofold. First, we demonstrate the
+employment of ChatGPT to understand and annotate the content published in
+software repositories. Second, we provide evidence of hidden risk in
+educational repositories contributing to the opportunities of potential threats
+and malicious intents. We carry out a systematic study on a collection of 35.2K
+GitHub repositories claimed to be created for educational purposes only. First,
+our study finds an increasing trend in the number of such repositories
+published every year. Second, 9294 of them are labeled by ChatGPT as malicious,
+and further categorization of the malicious ones detects 14 different malware
+families including DDoS, keylogger, ransomware and so on. Overall, this
+exploratory study flags a wake-up call for the community for better
+understanding and analysis of software platforms."
+2024-06-10,Understanding Students' Acceptance of ChatGPT as a Translation Tool: A UTAUT Model Analysis,"Lulu Wang, Simin Xu, Kanglong Liu","The potential of ChatGPT to transform the education landscape is drawing
+increasing attention. With its translation-related capabilities being tested
+and examined, ChatGPT presents both opportunities and challenges for
+translation training. The effective integration of ChatGPT into translation
+training necessitates an understanding of students' reactions to and acceptance
+of ChatGPT-assisted translation. Against this backdrop, this study draws on the
+Unified Theory of Acceptance and Use of Technology (UTAUT) to examine the
+potential determinants of students' adoption of ChatGPT for translation and
+investigates the moderating effects of use experience and translation training
+on those relationships. An online survey targeting university students in Hong
+Kong collected 308 valid responses, including 148 from translation students and
+160 from non-translation students. Respondents were divided into two groups
+based on their ChatGPT use experience. Data were analyzed using structural
+equation modeling. A multigroup analysis revealed different structural
+relationships between the influencing factors of students' intention to use
+ChatGPT across groups. Notably, less-experienced users' behavioral intention to
+use ChatGPT for translation was more strongly correlated with social influence
+compared with experienced users. Non-translation students' use intention was
+more strongly driven by facilitating conditions compared to translation majors.
+These results are discussed with the different primary purposes of translation
+and non-translation students' translation practices. The findings of this study
+contribute to the growing body of research on AI-powered translation training
+and provide insights for the ongoing adaptation of translation training
+programs."
+2023-12-29,ChatEd: A Chatbot Leveraging ChatGPT for an Enhanced Learning Experience in Higher Education,"Kevin Wang, Jason Ramos, Ramon Lawrence","With the rapid evolution of Natural Language Processing (NLP), Large Language
+Models (LLMs) like ChatGPT have emerged as powerful tools capable of
+transforming various sectors. Their vast knowledge base and dynamic interaction
+capabilities represent significant potential in improving education by
+operating as a personalized assistant. However, the possibility of generating
+incorrect, biased, or unhelpful answers are a key challenge to resolve when
+deploying LLMs in an education context. This work introduces an innovative
+architecture that combines the strengths of ChatGPT with a traditional
+information retrieval based chatbot framework to offer enhanced student support
+in higher education. Our empirical evaluations underscore the high promise of
+this approach."
+2023-11-16,Generative AI in Undergraduate Information Technology Education -- Insights from nine courses,"Anh Nguyen Duc, Tor Lønnestad, Ingrid Sundbø, Marius Rohde Johannessen, Veralia Gabriela, Salah Uddin Ahmed, Rania El-Gazzar","The increasing use of digital teaching and emerging technologies,
+particularly AI-based tools, such as ChatGPT, is presenting an inevitable and
+significant impact on higher education. The capability of processing and
+generating text could bring change to several areas, such as learning
+assessments or learning experiences. Besides the negative impact, i.e exam
+cheating, we also see a positive side that ChatGPT can bring to education. This
+research article aims to contribute to the current debate on ChatGPT by
+systematic reflection and experience reported from nine bachelor IT courses at
+a Norwegian university. We conducted inductive empirical research with
+reflective notes and focused groups of lecturers from nine different IT
+courses. The findings were thematically organized with numerous use cases in
+teaching IT subjects. Our discussion highlights the disruptive implications of
+AI assistant usage in higher education and emphasizes the need for educators to
+shape this transformation."
+2024-05-01,Google or ChatGPT: Who is the Better Helper for University Students,"Mengmeng Zhang, Xiantong Yang","Using information technology tools for academic help-seeking among college
+students has become a popular trend. In the evolutionary process between
+Generation Artificial Intelligence (GenAI) and traditional search engines, when
+students face academic challenges, do they tend to prefer Google, or are they
+more inclined to utilize ChatGPT? And what are the key factors influencing
+learners' preference to use ChatGPT for academic help-seeking? These relevant
+questions merit attention. The study employed a mixed-methods research design
+to investigate Taiwanese university students' online academic help-seeking
+preferences. The results indicated that students tend to prefer using ChatGPT
+to seek academic assistance, reflecting the potential popularity of GenAI in
+the educational field. Additionally, in comparing seven machine learning
+algorithms, the Random Forest and LightGBM algorithms exhibited superior
+performance. These two algorithms were employed to evaluate the predictive
+capability of 18 potential factors. It was found that GenAI fluency, GenAI
+distortions, and age were the core factors influencing how university students
+seek academic help. Overall, this study underscores that educators should
+prioritize the cultivation of students' critical thinking skills, while
+technical personnel should enhance the fluency and reliability of ChatGPT and
+Google searches and explore the integration of chat and search functions to
+achieve optimal balance."
+2024-01-25,Performance of ChatGPT on the Test of Understanding Graphs in Kinematics,"Giulia Polverini, Bor Gregorcic","The well-known artificial intelligence-based chatbot ChatGPT-4 has become
+able to process image data as input in October 2023. We investigated its
+performance on the Test of Understanding Graphs in Kinematics to inform the
+physics education community of the current potential of using ChatGPT in the
+education process, particularly on tasks that involve graphical interpretation.
+We found that ChatGPT, on average, performed similarly to students taking a
+high-school level physics course, but with important differences in the
+distribution of the correctness of its responses, as well as in terms of the
+displayed ""reasoning"" and ""visual"" abilities. While ChatGPT was very successful
+at proposing productive strategies for solving the tasks on the test and
+expressed correct ""reasoning"" in most of its responses, it had difficulties
+correctly ""seeing"" graphs. We suggest that, based on its performance, caution
+and a critical approach are needed if one intends to use it in the role of a
+tutor, a model of a student, or a tool for assisting vision-impaired persons in
+the context of kinematics graphs."
+2024-05-22,An empirical study to understand how students use ChatGPT for writing essays and how it affects their ownership,"Andrew Jelson, Sang Won Lee","As large language models (LLMs) become more powerful and ubiquitous, systems
+like ChatGPT are increasingly used by students to help them with writing tasks.
+To better understand how these tools are used, we investigate how students
+might use an LLM for essay writing, for example, to study the queries asked to
+ChatGPT and the responses that ChatGPT gives. To that end, we plan to conduct a
+user study that will record the user writing process and present them with the
+opportunity to use ChatGPT as an AI assistant. This study's findings will help
+us understand how these tools are used and how practitioners -- such as
+educators and essay readers -- should consider writing education and evaluation
+based on essay writing."
+2023-05-01,Enhancing STEM Learning with ChatGPT and Bing Chat as Objects to Think With: A Case Study,"Marco Antonio Rodrigues Vasconcelos, Renato P. dos Santos","This study investigates the potential of ChatGPT and Bing Chat, advanced
+conversational AIs, as ""objects-to-think-with,"" resources that foster
+reflective and critical thinking, and concept comprehension in enhancing STEM
+education, using a constructionist theoretical framework. A single-case study
+methodology was used to analyse extensive interaction logs between students and
+both AI systems in simulated STEM learning experiences. The results highlight
+the ability of ChatGPT and Bing Chat to help learners develop reflective and
+critical thinking, creativity, problem-solving skills, and concept
+comprehension. However, integrating AIs with collaborative learning and other
+educational activities is crucial, as is addressing potential limitations like
+concerns about AI information accuracy and reliability of the AIs' information
+and diminished human interaction. The study concludes that ChatGPT and Bing
+Chat as objects-to-think-with offer promising avenues to revolutionise STEM
+education through a constructionist lens, fostering engagement in inclusive and
+accessible learning environments."
+2023-02-08,Will ChatGPT get you caught? Rethinking of Plagiarism Detection,"Mohammad Khalil, Erkan Er","The rise of Artificial Intelligence (AI) technology and its impact on
+education has been a topic of growing concern in recent years. The new
+generation AI systems such as chatbots have become more accessible on the
+Internet and stronger in terms of capabilities. The use of chatbots,
+particularly ChatGPT, for generating academic essays at schools and colleges
+has sparked fears among scholars. This study aims to explore the originality of
+contents produced by one of the most popular AI chatbots, ChatGPT. To this end,
+two popular plagiarism detection tools were used to evaluate the originality of
+50 essays generated by ChatGPT on various topics. Our results manifest that
+ChatGPT has a great potential to generate sophisticated text outputs without
+being well caught by the plagiarism check software. In other words, ChatGPT can
+create content on many topics with high originality as if they were written by
+someone. These findings align with the recent concerns about students using
+chatbots for an easy shortcut to success with minimal or no effort. Moreover,
+ChatGPT was asked to verify if the essays were generated by itself, as an
+additional measure of plagiarism check, and it showed superior performance
+compared to the traditional plagiarism-detection tools. The paper discusses the
+need for institutions to consider appropriate measures to mitigate potential
+plagiarism issues and advise on the ongoing debate surrounding the impact of AI
+technology on education. Further implications are discussed in the paper."
+2023-02-20,ChatGPT: A Meta-Analysis after 2.5 Months,"Christoph Leiter, Ran Zhang, Yanran Chen, Jonas Belouadi, Daniil Larionov, Vivian Fresen, Steffen Eger","ChatGPT, a chatbot developed by OpenAI, has gained widespread popularity and
+media attention since its release in November 2022. However, little hard
+evidence is available regarding its perception in various sources. In this
+paper, we analyze over 300,000 tweets and more than 150 scientific papers to
+investigate how ChatGPT is perceived and discussed. Our findings show that
+ChatGPT is generally viewed as of high quality, with positive sentiment and
+emotions of joy dominating in social media. Its perception has slightly
+decreased since its debut, however, with joy decreasing and (negative) surprise
+on the rise, and it is perceived more negatively in languages other than
+English. In recent scientific papers, ChatGPT is characterized as a great
+opportunity across various fields including the medical domain, but also as a
+threat concerning ethics and receives mixed assessments for education. Our
+comprehensive meta-analysis of ChatGPT's current perception after 2.5 months
+since its release can contribute to shaping the public debate and informing its
+future development. We make our data available."
+2023-04-15,Analyzing the Performance of ChatGPT in Cardiology and Vascular Pathologies,Walid Hariri,"The article aims to analyze the performance of ChatGPT, a large language
+model developed by OpenAI, in the context of cardiology and vascular
+pathologies. The study evaluated the accuracy of ChatGPT in answering
+challenging multiple-choice questions (QCM) using a dataset of 190 questions
+from the Siamois-QCM platform. The goal was to assess ChatGPT potential as a
+valuable tool in medical education compared to two well-ranked students of
+medicine. The results showed that ChatGPT outperformed the students, scoring
+175 out of 190 correct answers with a percentage of 92.10\%, while the two
+students achieved scores of 163 and 159 with percentages of 85.78\% and
+82.63\%, respectively. These results showcase how ChatGPT has the potential to
+be highly effective in the fields of cardiology and vascular pathologies by
+providing accurate answers to relevant questions."
+2023-09-25,More than Model Documentation: Uncovering Teachers' Bespoke Information Needs for Informed Classroom Integration of ChatGPT,"Mei Tan, Hariharan Subramonyam","ChatGPT has entered classrooms, but not via the typical route of other
+educational technology, which includes comprehensive training, documentation,
+and vetting. Consequently, teachers are urgently tasked to assess its
+capabilities to determine potential effects on student learning and instruct
+their use of ChatGPT. However, it is unclear what support teachers have and
+need and whether existing documentation, such as model cards, provides adequate
+direction for educators in this new paradigm. By interviewing 22 middle- and
+high-school teachers, we connect the discourse on AI transparency and
+documentation with educational technology integration, highlighting the
+critical information needs of teachers. Our findings reveal that teachers
+confront significant information gaps, lacking clarity on exploring ChatGPT's
+capabilities for bespoke learning tasks and ensuring its fit with the needs of
+diverse learners. As a solution, we propose a framework for interactive model
+documentation that empowers teachers to navigate the interplay between
+pedagogical and technical knowledge."
+2024-07-02,Revolutionising Role-Playing Games with ChatGPT,"Rita Stampfl, Barbara Geyer, Marie Deissl-O'Meara, Igor Ivkić","Digitalisation in education and its influence on teaching methods is the
+focus of this study, which examines the use of ChatGPT in a role-playing game
+used in the Cloud Computing Engineering Master's programme at the University of
+Applied Sciences Burgenland. The aim of the study was to analyse the impact of
+AI-based simulations on students' learning experience. Based on Vygotsky's
+sociocultural theory, ChatGPT was used to give students a deeper understanding
+of strategic decision-making processes in simulated business scenarios. The
+methodological approach included role-playing and qualitative content analysis
+of 20 student reflections. The findings suggest that ChatGPT enhances students'
+engagement, critical thinking, and communication skills, in addition to
+contributing to the effective application of theoretical knowledge.
+Furthermore, simulations can contribute to the effective application of
+theoretical knowledge. The results underscore the significance of adaptive
+teaching approaches in promoting digital literacy and equipping learners for
+the digital workplace. The integration of AI into curricula and the need for
+ongoing innovation in higher education are also emphasised as a means of
+guaranteeing excellent, future-focused instruction. The findings highlight the
+potential of AI and ChatGPT in particular, as an innovative cutting-edge
+educational tool that can both enhance the learning experience and help achieve
+the Sustainable Development Goals (SDGs) through education."
+2023-09-14,Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text,"Mahdi Dhaini, Wessel Poelman, Ege Erdogan","While recent advancements in the capabilities and widespread accessibility of
+generative language models, such as ChatGPT (OpenAI, 2022), have brought about
+various benefits by generating fluent human-like text, the task of
+distinguishing between human- and large language model (LLM) generated text has
+emerged as a crucial problem. These models can potentially deceive by
+generating artificial text that appears to be human-generated. This issue is
+particularly significant in domains such as law, education, and science, where
+ensuring the integrity of text is of the utmost importance. This survey
+provides an overview of the current approaches employed to differentiate
+between texts generated by humans and ChatGPT. We present an account of the
+different datasets constructed for detecting ChatGPT-generated text, the
+various methods utilized, what qualitative analyses into the characteristics of
+human versus ChatGPT-generated text have been performed, and finally, summarize
+our findings into general insights"
+2023-08-09,"Let's have a chat! A Conversation with ChatGPT: Technology, Applications, and Limitations","Sakib Shahriar, Kadhim Hayawi","The emergence of an AI-powered chatbot that can generate human-like sentences
+and write coherent essays has caught the world's attention. This paper
+discusses the historical overview of chatbots and the technology behind Chat
+Generative Pre-trained Transformer, better known as ChatGPT. Moreover,
+potential applications of ChatGPT in various domains, including healthcare,
+education, and research, are highlighted. Despite promising results, there are
+several privacy and ethical concerns surrounding ChatGPT. In addition, we
+highlight some of the important limitations of the current version of ChatGPT.
+We also ask ChatGPT to provide its point of view and present its responses to
+several questions we attempt to answer."
+2023-10-24,Distilling ChatGPT for Explainable Automated Student Answer Assessment,"Jiazheng Li, Lin Gui, Yuxiang Zhou, David West, Cesare Aloisi, Yulan He","Providing explainable and faithful feedback is crucial for automated student
+answer assessment. In this paper, we introduce a novel framework that explores
+using ChatGPT, a cutting-edge large language model, for the concurrent tasks of
+student answer scoring and rationale generation. We identify the appropriate
+instructions by prompting ChatGPT with different templates to collect the
+rationales, where inconsistent rationales are refined to align with marking
+standards. The refined ChatGPT outputs enable us to fine-tune a smaller
+language model that simultaneously assesses student answers and provides
+rationales. Extensive experiments on the benchmark dataset show that the
+proposed method improves the overall QWK score by 11% compared to ChatGPT.
+Furthermore, our thorough analysis and human evaluation demonstrate that the
+rationales generated by our proposed method are comparable to those of ChatGPT.
+Our approach provides a viable solution to achieve explainable automated
+assessment in education. Code available at
+https://github.com/lijiazheng99/aera."
+2023-05-19,RECIPE: How to Integrate ChatGPT into EFL Writing Education,"Jieun Han, Haneul Yoo, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh","The integration of generative AI in the field of education is actively being
+explored. In particular, ChatGPT has garnered significant interest, offering an
+opportunity to examine its effectiveness in English as a foreign language (EFL)
+education. To address this need, we present a novel learning platform called
+RECIPE (Revising an Essay with ChatGPT on an Interactive Platform for EFL
+learners). Our platform features two types of prompts that facilitate
+conversations between ChatGPT and students: (1) a hidden prompt for ChatGPT to
+take an EFL teacher role and (2) an open prompt for students to initiate a
+dialogue with a self-written summary of what they have learned. We deployed
+this platform for 213 undergraduate and graduate students enrolled in EFL
+writing courses and seven instructors. For this study, we collect students'
+interaction data from RECIPE, including students' perceptions and usage of the
+platform, and user scenarios are examined with the data. We also conduct a
+focus group interview with six students and an individual interview with one
+EFL instructor to explore design opportunities for leveraging generative AI
+models in the field of EFL education."
+2023-12-31,Data Dialogue with ChatGPT: Using Code Interpreter to Simulate and Analyse Experimental Data,"Andrew Low, Z. Yasemin Kalender","Artificial Intelligence (AI) has the potential to fundamentally change the
+educational landscape. So far, much of the physics education research relating
+to AI has focused on lecture-based assessment and the ability of ChatGPT to
+answer conceptual surveys and traditional exam-style questions. In this study,
+we shift the focus by investigating ChatGPT's ability to complete an
+introductory mechanics laboratory activity by using Code Interpreter, a recent
+plugin that allows users to generate and analyse data by writing and running
+Python code `behind the scenes'. By uploading a common `spring constant' lab
+activity using Code Interpreter, we investigate the ability of ChatGPT to
+interpret the activity, generate realistic model data, produce a line-fit, and
+calculate the reduced chi square statistic. By analysing our interactions with
+ChatGPT, along with the Python code generated by Code Interpreter, we assess
+how the quality and accuracy of ChatGPT's responses depends on different levels
+of prompt detail. We find that although ChatGPT is capable of completing the
+lab activity and generating plausible-looking data, the quality of the output
+is highly dependent on the detail and specificity of the text prompts provided.
+We find that the data generation process adopted by ChatGPT in this study leads
+to heteroscedasticity in the simulated data, which may be difficult for novice
+learners to spot. We also find that when real experimental data is uploaded via
+Code Interpreter, ChatGPT is capable of correctly plotting and fitting the
+data, calculating the spring constant and associated uncertainty, and
+calculating the reduced chi square statistic. This work offers new insights
+into the capabilities of Code Interpreter within a laboratory setting and
+highlights a variety of text-prompt strategies for the effective use of Code
+Interpreter in a lab context."
+2023-10-23,"Enhancing Chemistry Learning with ChatGPT, Bing Chat, Bard, and Claude as Agents-to-Think-With: A Comparative Case Study",Renato P. dos Santos,"This research delves into the comparative advantages of Generative AI
+chatbots (GenAIbots) -- ChatGPT, Bing Chat, Bard, and Claude -- in the context
+of Chemistry education, framed within a constructivist perspective. Our primary
+objective was to identify which of these four AI tools is more effective for
+enhancing Chemistry learning. Employing a single-case study approach, we
+scrutinised interaction logs between the AI systems and a simulated student
+persona during Chemistry learning simulations, incorporating Content Analysis
+methodology to delve deeper into the discourse. Our findings underscore these
+tools' potential as ""agents-to-think-with"", enhancing critical thinking,
+problem-solving, comprehension, creativity, and tailored learning. Especially
+noteworthy is their ability to stimulate learners through Socratic-like
+questioning, aligning with constructionist principles. The research emphasises
+the pivotal role of prompt crafting to coax desired responses from GenAIbots,
+engendering iterative reflections. It also highlights the need for robust
+educator training to infuse these technologies into educational settings.
+Conclusively, while ChatGPT, Bing Chat, Bard, and Claude are poised to enrich
+Chemistry education by fostering dynamic, inclusive learning experiences,
+ChatGPT stood out, decisively surpassing Bing Chat in its performance. Bard and
+Claude trailed closely, with all three showcasing a more in-depth, precise, and
+nuanced understanding, underscoring ChatGPT's adeptness at contextual
+comprehension."
+2023-11-04,The Future of ChatGPT-enabled Labor Market: A Preliminary Study in China,"Lan Chen, Xi Chen, Shiyu Wu, Yaqi Yang, Meng Chang, Hengshu Zhu","As a phenomenal large language model, ChatGPT has achieved unparalleled
+success in various real-world tasks and increasingly plays an important role in
+our daily lives and work. However, extensive concerns are also raised about the
+potential ethical issues, especially about whether ChatGPT-like artificial
+general intelligence (AGI) will replace human jobs. To this end, in this paper,
+we introduce a preliminary data-driven study on the future of ChatGPT-enabled
+labor market from the view of Human-AI Symbiosis instead of Human-AI
+Confrontation. To be specific, we first conduct an in-depth analysis of
+large-scale job posting data in BOSS Zhipin, the largest online recruitment
+platform in China. The results indicate that about 28% of occupations in the
+current labor market require ChatGPT-related skills. Furthermore, based on a
+large-scale occupation-centered knowledge graph, we develop a semantic
+information enhanced collaborative filtering algorithm to predict the future
+occupation-skill relations in the labor market. As a result, we find that
+additional 45% occupations in the future will require ChatGPT-related skills.
+In particular, industries related to technology, products, and operations are
+expected to have higher proficiency requirements for ChatGPT-related skills,
+while the manufacturing, services, education, and health science related
+industries will have lower requirements for ChatGPT-related skills."
+2024-03-04,Experimenting with Generative AI: Does ChatGPT Really Increase Everyone's Productivity?,"Voraprapa Nakavachara, Tanapong Potipiti, Thanee Chaiwat","Generative AI technologies such as ChatGPT, Gemini, and MidJourney have made
+remarkable progress in recent years. Recent literature has documented ChatGPT's
+positive impact on productivity in areas where it has strong expertise,
+attributable to extensive training datasets, such as the English language and
+Python/SQL programming. However, there is still limited literature regarding
+ChatGPT's performance in areas where its capabilities could still be further
+enhanced. This paper aims to fill this gap. We conducted an experiment in which
+economics students were asked to perform writing analysis tasks in a
+non-English language (specifically, Thai) and math & data analysis tasks using
+a less frequently used programming package (specifically, Stata). The findings
+suggest that, on average, participants performed better using ChatGPT in terms
+of scores and time taken to complete the tasks. However, a detailed examination
+reveals that 34% of participants saw no improvement in writing analysis tasks,
+and 42% did not improve in math & data analysis tasks when employing ChatGPT.
+Further investigation indicated that higher-ability students, as proxied by
+their econometrics grades, were the ones who performed worse in writing
+analysis tasks when using ChatGPT. We also found evidence that students with
+better digital skills performed better with ChatGPT. This research provides
+insights on the impact of generative AI. Thus, stakeholders can make informed
+decisions to implement appropriate policy frameworks or redesign educational
+systems. It also highlights the critical role of human skills in addressing and
+complementing the limitations of technology."
+2024-02-27,"How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability","Ivan DeAndres-Tame, Ruben Tolosana, Ruben Vera-Rodriguez, Aythami Morales, Julian Fierrez, Javier Ortega-Garcia","Large Language Models (LLMs) such as GPT developed by OpenAI, have already
+shown astonishing results, introducing quick changes in our society. This has
+been intensified by the release of ChatGPT which allows anyone to interact in a
+simple conversational way with LLMs, without any experience in the field
+needed. As a result, ChatGPT has been rapidly applied to many different tasks
+such as code- and song-writer, education, virtual assistants, etc., showing
+impressive results for tasks for which it was not trained (zero-shot learning).
+  The present study aims to explore the ability of ChatGPT, based on the recent
+GPT-4 multimodal LLM, for the task of face biometrics. In particular, we
+analyze the ability of ChatGPT to perform tasks such as face verification,
+soft-biometrics estimation, and explainability of the results. ChatGPT could be
+very valuable to further increase the explainability and transparency of
+automatic decisions in human scenarios. Experiments are carried out in order to
+evaluate the performance and robustness of ChatGPT, using popular public
+benchmarks and comparing the results with state-of-the-art methods in the
+field. The results achieved in this study show the potential of LLMs such as
+ChatGPT for face biometrics, especially to enhance explainability. For
+reproducibility reasons, we release all the code in GitHub."
+2023-07-03,ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience,"Ruiyun Xu, Yue Feng, Hailiang Chen","The advent of ChatGPT, a large language model-powered chatbot, has prompted
+questions about its potential implications for traditional search engines. In
+this study, we investigate the differences in user behavior when employing
+search engines and chatbot tools for information-seeking tasks. We carry out a
+randomized online experiment, dividing participants into two groups: one using
+a ChatGPT-like tool and the other using a Google Search-like tool. Our findings
+reveal that the ChatGPT group consistently spends less time on all tasks, with
+no significant difference in overall task performance between the groups.
+Notably, ChatGPT levels user search performance across different education
+levels and excels in answering straightforward questions and providing general
+solutions but falls short in fact-checking tasks. Users perceive ChatGPT's
+responses as having higher information quality compared to Google Search,
+despite displaying a similar level of trust in both tools. Furthermore,
+participants using ChatGPT report significantly better user experiences in
+terms of usefulness, enjoyment, and satisfaction, while perceived ease of use
+remains comparable between the two tools. However, ChatGPT may also lead to
+overreliance and generate or replicate misinformation, yielding inconsistent
+results. Our study offers valuable insights for search engine management and
+highlights opportunities for integrating chatbot technologies into search
+engine designs."
+2023-09-18,Evaluating the Impact of ChatGPT on Exercises of a Software Security Course,"Jingyue Li, Per Håkon Meland, Jakob Svennevik Notland, André Storhaug, Jostein Hjortland Tysse","Along with the development of large language models (LLMs), e.g., ChatGPT,
+many existing approaches and tools for software security are changing. It is,
+therefore, essential to understand how security-aware these models are and how
+these models impact software security practices and education. In exercises of
+a software security course at our university, we ask students to identify and
+fix vulnerabilities we insert in a web application using state-of-the-art
+tools. After ChatGPT, especially the GPT-4 version of the model, we want to
+know how the students can possibly use ChatGPT to complete the exercise tasks.
+We input the vulnerable code to ChatGPT and measure its accuracy in
+vulnerability identification and fixing. In addition, we investigated whether
+ChatGPT can provide a proper source of information to support its outputs.
+Results show that ChatGPT can identify 20 of the 28 vulnerabilities we inserted
+in the web application in a white-box setting, reported three false positives,
+and found four extra vulnerabilities beyond the ones we inserted. ChatGPT makes
+nine satisfactory penetration testing and fixing recommendations for the ten
+vulnerabilities we want students to fix and can often point to related sources
+of information."
+2024-03-25,Exploring ChatGPT and its Impact on Society,"Md. Asraful Haque, Shuai Li","Artificial intelligence has been around for a while, but suddenly it has
+received more attention than ever before. Thanks to innovations from companies
+like Google, Microsoft, Meta, and other major brands in technology. OpenAI,
+though, has triggered the button with its ground-breaking invention ChatGPT.
+ChatGPT is a Large Language Model (LLM) based on Transformer architecture that
+has the ability to generate human-like responses in a conversational context.
+It uses deep learning algorithms to generate natural language responses to
+input text. Its large number of parameters, contextual generation, and
+open-domain training make it a versatile and effective tool for a wide range of
+applications, from chatbots to customer service to language translation. It has
+the potential to revolutionize various industries and transform the way we
+interact with technology. However, the use of ChatGPT has also raised several
+concerns, including ethical, social, and employment challenges, which must be
+carefully considered to ensure the responsible use of this technology. The
+article provides an overview of ChatGPT, delving into its architecture and
+training process. It highlights the potential impacts of ChatGPT on the
+society. In this paper, we suggest some approaches involving technology,
+regulation, education, and ethics in an effort to maximize ChatGPT's benefits
+while minimizing its negative impacts. This study is expected to contribute to
+a greater understanding of ChatGPT and aid in predicting the potential changes
+it may bring about."
+2024-03-13,RECIPE4U: Student-ChatGPT Interaction Dataset in EFL Writing Education,"Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh","The integration of generative AI in education is expanding, yet empirical
+analyses of large-scale and real-world interactions between students and AI
+systems still remain limited. Addressing this gap, we present RECIPE4U (RECIPE
+for University), a dataset sourced from a semester-long experiment with 212
+college students in English as Foreign Language (EFL) writing courses. During
+the study, students engaged in dialogues with ChatGPT to revise their essays.
+RECIPE4U includes comprehensive records of these interactions, including
+conversation logs, students' intent, students' self-rated satisfaction, and
+students' essay edit histories. In particular, we annotate the students'
+utterances in RECIPE4U with 13 intention labels based on our coding schemes. We
+establish baseline results for two subtasks in task-oriented dialogue systems
+within educational contexts: intent detection and satisfaction estimation. As a
+foundational step, we explore student-ChatGPT interaction patterns through
+RECIPE4U and analyze them by focusing on students' dialogue, essay data
+statistics, and students' essay edits. We further illustrate potential
+applications of RECIPE4U dataset for enhancing the incorporation of LLMs in
+educational frameworks. RECIPE4U is publicly available at
+https://zeunie.github.io/RECIPE4U/."
+2023-06-09,Legal and ethical considerations regarding the use of ChatGPT in education,"Fereniki Panagopoulou, Christina Parpoula, Kostas Karpouzis","Artificial intelligence has evolved enormously over the last two decades,
+becoming mainstream in different scientific domains including education, where
+so far, it is mainly utilized to enhance administrative and intelligent
+tutoring systems services and academic support. ChatGPT, an artificial
+intelligence-based chatbot, developed by OpenAI and released in November 2022,
+has rapidly gained attention from the entire international community for its
+impressive performance in generating comprehensive, systematic, and informative
+human-like responses to user input through natural language processing.
+Inevitably, it has also rapidly posed several challenges, opportunities, and
+potential issues and concerns raised regarding its use across various
+scientific disciplines. This paper aims to discuss the legal and ethical
+implications arising from this new technology, identify potential use cases,
+and enrich our understanding of Generative AI, such as ChatGPT, and its
+capabilities in education."
+2023-11-25,"Exploring User Perspectives on ChatGPT: Applications, Perceptions, and Implications for AI-Integrated Education","Reza Hadi Mogavi, Chao Deng, Justin Juho Kim, Pengyuan Zhou, Young D. Kwon, Ahmed Hosny Saleh Metwally, Ahmed Tlili, Simone Bassanelli, Antonio Bucchiarone, Sujit Gujar, Lennart E. Nacke, Pan Hui","To foster the development of pedagogically potent and ethically sound
+AI-integrated learning landscapes, it is pivotal to critically explore the
+perceptions and experiences of the users immersed in these contexts. In this
+study, we perform a thorough qualitative content analysis across four key
+social media platforms. Our goal is to understand the user experience (UX) and
+views of early adopters of ChatGPT across different educational sectors. The
+results of our research show that ChatGPT is most commonly used in the domains
+of higher education, K-12 education, and practical skills training. In social
+media dialogues, the topics most frequently associated with ChatGPT are
+productivity, efficiency, and ethics. Early adopters' attitudes towards ChatGPT
+are multifaceted. On one hand, some users view it as a transformative tool
+capable of amplifying student self-efficacy and learning motivation. On the
+other hand, there is a degree of apprehension among concerned users. They worry
+about a potential overdependence on the AI system, which they fear might
+encourage superficial learning habits and erode students' social and critical
+thinking skills. This dichotomy of opinions underscores the complexity of
+Human-AI Interaction in educational contexts. Our investigation adds depth to
+this ongoing discourse, providing crowd-sourced insights for educators and
+learners who are considering incorporating ChatGPT or similar generative AI
+tools into their pedagogical strategies."
+2023-12-18,Dissecting Bias of ChatGPT in College Major Recommendations,Alex Zheng,"I investigate bias in terms of ChatGPT's college major recommendations for
+students with various profiles, looking at demographic disparities in factors
+such as race, gender, and socioeconomic status, as well as educational
+disparities such as score percentiles. By constructing prompts for the ChatGPT
+API, allowing the model to recommend majors based on high school student
+profiles, I evaluate bias using various metrics, including the Jaccard
+Coefficient, Wasserstein Metric, and STEM Disparity Score. The results of this
+study reveal a significant disparity in the set of recommended college majors,
+irrespective of the bias metric applied."
+2024-06-12,Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review,"Jinge Wang, Zien Cheng, Qiuming Yao, Li Liu, Dong Xu, Gangqing Hu","The year 2023 marked a significant surge in the exploration of applying large
+language model (LLM) chatbots, notably ChatGPT, across various disciplines. We
+surveyed the applications of ChatGPT in bioinformatics and biomedical
+informatics throughout the year, covering omics, genetics, biomedical text
+mining, drug discovery, biomedical image understanding, bioinformatics
+programming, and bioinformatics education. Our survey delineates the current
+strengths and limitations of this chatbot in bioinformatics and offers insights
+into potential avenues for future developments."
+2024-06-11,Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography,"Jiayue Zhang, Yiheng Liu, Wenqi Cai, Lanlan Wu, Yali Peng, Jingjing Yu, Senqing Qi, Taotao Long, Bao Ge","In recent years, the rapid development of artificial intelligence technology,
+especially the emergence of large language models (LLMs) such as ChatGPT, has
+presented significant prospects for application in the field of education. LLMs
+possess the capability to interpret knowledge, answer questions, and consider
+context, thus providing support for dialogic teaching to students. Therefore,
+an examination of the capacity of LLMs to effectively fulfill instructional
+roles, thereby facilitating student learning akin to human educators within
+dialogic teaching scenarios, is an exceptionally valuable research topic. This
+research recruited 34 undergraduate students as participants, who were randomly
+divided into two groups. The experimental group engaged in dialogic teaching
+using ChatGPT, while the control group interacted with human teachers. Both
+groups learned the histogram equalization unit in the information-related
+course ""Digital Image Processing"". The research findings show comparable scores
+between the two groups on the retention test. However, students who engaged in
+dialogue with ChatGPT exhibited lower performance on the transfer test.
+Electroencephalography data revealed that students who interacted with ChatGPT
+exhibited higher levels of cognitive activity, suggesting that ChatGPT could
+help students establish a knowledge foundation and stimulate cognitive
+activity. However, its strengths on promoting students. knowledge application
+and creativity were insignificant. Based upon the research findings, it is
+evident that ChatGPT cannot fully excel in fulfilling teaching tasks in the
+dialogue teaching in information related courses. Combining ChatGPT with
+traditional human teachers might be a more ideal approach. The synergistic use
+of both can provide students with more comprehensive learning support, thus
+contributing to enhancing the quality of teaching."
+2023-03-29,"Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential","Qing Lyu, Josh Tan, Michael E. Zapadka, Janardhana Ponnatapura, Chuang Niu, Kyle J. Myers, Ge Wang, Christopher T. Whitlow","The large language model called ChatGPT has drawn extensively attention
+because of its human-like expression and reasoning abilities. In this study, we
+investigate the feasibility of using ChatGPT in experiments on using ChatGPT to
+translate radiology reports into plain language for patients and healthcare
+providers so that they are educated for improved healthcare. Radiology reports
+from 62 low-dose chest CT lung cancer screening scans and 76 brain MRI
+metastases screening scans were collected in the first half of February for
+this study. According to the evaluation by radiologists, ChatGPT can
+successfully translate radiology reports into plain language with an average
+score of 4.27 in the five-point system with 0.08 places of information missing
+and 0.07 places of misinformation. In terms of the suggestions provided by
+ChatGPT, they are general relevant such as keeping following-up with doctors
+and closely monitoring any symptoms, and for about 37% of 138 cases in total
+ChatGPT offers specific suggestions based on findings in the report. ChatGPT
+also presents some randomness in its responses with occasionally
+over-simplified or neglected information, which can be mitigated using a more
+detailed prompt. Furthermore, ChatGPT results are compared with a newly
+released large model GPT-4, showing that GPT-4 can significantly improve the
+quality of translated reports. Our results show that it is feasible to utilize
+large language models in clinical education, and further efforts are needed to
+address limitations and maximize their potential."
+2023-05-01,Empowering Learner-Centered Instruction: Integrating ChatGPT Python API and Tinker Learning for Enhanced Creativity and Problem-Solving Skills,Yun-Cheng Tsai,"The ChatGPT Python API plays a crucial role in promoting Learner-Centered
+Instruction (LCI) and aligns with the principles of Tinker Learning, allowing
+students to discover their learning strategies. LCI emphasizes the importance
+of active, hands-on learning experiences and encourages students to take
+responsibility for their learning journey. By integrating the ChatGPT Python
+API into the educational process, students can explore various resources,
+generate new ideas, and create content in a more personalized manner. This
+innovative approach enables students to engage with the learning material
+deeper, fostering a sense of ownership and motivation. As they work through the
+Creative Learning Spiral, students develop essential skills such as critical
+thinking, problem-solving, and creativity. The ChatGPT Python API is a valuable
+tool for students to explore different solutions, evaluate alternatives, and
+make informed decisions, all while encouraging self-directed learning. In
+Tinker Learning environments, the integration of ChatGPT Python API empowers
+students to experiment and iterate, allowing them to find the most effective
+learning strategies that cater to their individual needs and preferences. This
+personalized approach helps students to become more confident in their
+abilities, leading to tremendous academic success and long-term skill
+development. By leveraging the capabilities of the ChatGPT Python API,
+educational institutions can create a more engaging, supportive, and dynamic
+learning environment. This approach aligns with the principles of
+Learner-Centered Instruction and Tinker Learning, promoting a culture of
+curiosity, exploration, and creativity among students while preparing them for
+the challenges of the fast-paced, ever-changing world."
+2023-04-29,"A Review of ChatGPT Applications in Education, Marketing, Software Engineering, and Healthcare: Benefits, Drawbacks, and Research Directions","Mohammad Fraiwan, Natheer Khasawneh","ChatGPT is a type of artificial intelligence language model that uses deep
+learning algorithms to generate human-like responses to text-based prompts. The
+introduction of the latest ChatGPT version in November of 2022 has caused
+shockwaves in the industrial and academic communities for its powerful
+capabilities, plethora of possible applications, and the great possibility for
+abuse. At the time of writing this work, several other language models (e.g.,
+Google Bard and Meta LLaMA) just came out in an attempt to get a foothold in
+the vast possible market. These models have the ability to revolutionize the
+way we interact with computers and have potential applications in many fields,
+including education, software engineering, healthcare, and marketing. In this
+paper, we will discuss the possible applications, drawbacks, and research
+directions using advanced language Chatbots (e.g., ChatGPT) in each of these
+fields. We first start with a brief introduction and the development timeline
+of artificial intelligence based language models, then we go through possible
+applications of such models, after that we discuss the limitations and
+drawbacks of the current technological state of the art, and finally we point
+out future possible research directions."
+2023-07-30,Distractor generation for multiple-choice questions with predictive prompting and large language models,"Semere Kiros Bitew, Johannes Deleu, Chris Develder, Thomas Demeester","Large Language Models (LLMs) such as ChatGPT have demonstrated remarkable
+performance across various tasks and have garnered significant attention from
+both researchers and practitioners. However, in an educational context, we
+still observe a performance gap in generating distractors -- i.e., plausible
+yet incorrect answers -- with LLMs for multiple-choice questions (MCQs). In
+this study, we propose a strategy for guiding LLMs such as ChatGPT, in
+generating relevant distractors by prompting them with question items
+automatically retrieved from a question bank as well-chosen in-context
+examples. We evaluate our LLM-based solutions using a quantitative assessment
+on an existing test set, as well as through quality annotations by human
+experts, i.e., teachers. We found that on average 53% of the generated
+distractors presented to the teachers were rated as high-quality, i.e.,
+suitable for immediate use as is, outperforming the state-of-the-art model. We
+also show the gains of our approach 1 in generating high-quality distractors by
+comparing it with a zero-shot ChatGPT and a few-shot ChatGPT prompted with
+static examples."
+2024-02-18,"ChatGPT in Linear Algebra: Strides Forward, Steps to Go","Eli Bagno, Thierry Dana-Picard, Shulamit Reches","As soon as a new technology emerges, the education community explores its
+affordances and the possibilities to apply it in education. In this paper, we
+analyze sessions with ChatGPT around topics in basic Linear Algebra. We reflect
+the process undertaken by the ChatGPT along the recent year in our area of
+interest, emphasising the vast improvement that has been done in grappling with
+Linear Algebra problems. In particular, the question whether this software can
+be a teaching assistant or even somehow replace the human teacher, is
+addressed. As of the time this paper is written, the answer is generally
+negative. For the small part where the answer can be positive, some reflections
+about an original instrumental genesis are given.
+  Communication with the software gives the impression to talk to a human, and
+sometimes the question is whether the software understands the question or not.
+Therefore, the reader's attention is drawn to the fact that ChatGPT works on a
+statistical basis and not according to reflection and understanding."
+2024-01-22,"Applications, challenges and ethical issues of AI and ChatGPT in education","Dimitrios Sidiropoulos, Christos-Nikolaos Anagnostopoulos","Artificial Intelligence (AI) in recent years has shown an unprecedentedly
+impressive development, tending to play a catalytic role in all aspects of
+life. The interest of the academic community, but also of governments, is huge
+in the dynamics of AI and is reflected by the truly explosive amount of
+investment and research that is underway. Enthusiastic opinions and statements
+about AI are made every day, but at the same time they also bring to the fore
+alarming predictions about its effects. This paper aims to describe the
+opportunities emerging from the use of artificial intelligence and ChatGPT to
+improve education, but also to identify the challenges and ethical issues that
+arise."
+2023-08-31,Exploring the Potential of Large Language Models to Generate Formative Programming Feedback,"Natalie Kiesler, Dominic Lohr, Hieke Keuning","Ever since the emergence of large language models (LLMs) and related
+applications, such as ChatGPT, its performance and error analysis for
+programming tasks have been subject to research. In this work-in-progress
+paper, we explore the potential of such LLMs for computing educators and
+learners, as we analyze the feedback it generates to a given input containing
+program code. In particular, we aim at (1) exploring how an LLM like ChatGPT
+responds to students seeking help with their introductory programming tasks,
+and (2) identifying feedback types in its responses. To achieve these goals, we
+used students' programming sequences from a dataset gathered within a CS1
+course as input for ChatGPT along with questions required to elicit feedback
+and correct solutions. The results show that ChatGPT performs reasonably well
+for some of the introductory programming tasks and student errors, which means
+that students can potentially benefit. However, educators should provide
+guidance on how to use the provided feedback, as it can contain misleading
+information for novices."
+2024-03-05,"Generative AI in Higher Education: Seeing ChatGPT Through Universities' Policies, Resources, and Guidelines","Hui Wang, Anh Dang, Zihao Wu, Son Mac","The advancements in Generative Artificial Intelligence (GenAI) technologies
+such as ChatGPT provide opportunities to enrich educational experiences, but
+also raise concerns about academic integrity if misused. This study aims to
+explore how universities and educators respond and adapt to the development of
+GenAI in their academic contexts by analyzing academic policies and guidelines
+established by top-ranked US universities regarding the use of ChatGPT in
+higher education. The data sources include academic policies, statements,
+guidelines as well as relevant resources provided by the top 100 universities
+in the US. Results show that the majority of these universities adopt an open
+but cautious approach towards the integration of GenAI. Primary concerns lie in
+ethical usage, accuracy, and data privacy. Most universities actively respond
+and provide diverse types of resources, such as syllabus templates/samples,
+workshops, shared articles, and one-on-one consultations, with topics focusing
+on general technical introduction, ethical concerns, pedagogical applications,
+preventive strategies, data privacy, limitations, and detective tools. The
+findings provide two suggestions for educators in policy-making: establish
+discipline-specific policies, and manage sensitive information carefully, as
+well as four implications for educators in teaching practices: accept its
+presence, align its use with learning objectives, evolve curriculum to prevent
+misuse, and adopt multifaceted evaluation strategies rather than relying on AI
+detectors."
+2023-10-28,Examining the Potential and Pitfalls of ChatGPT in Science and Engineering Problem-Solving,"Karen D. Wang, Eric Burkholder, Carl Wieman, Shima Salehi, Nick Haber","The study explores the capabilities of OpenAI's ChatGPT in solving different
+types of physics problems. ChatGPT (with GPT-4) was queried to solve a total of
+40 problems from a college-level engineering physics course. These problems
+ranged from well-specified problems, where all data required for solving the
+problem was provided, to under-specified, real-world problems where not all
+necessary data were given. Our findings show that ChatGPT could successfully
+solve 62.5% of the well-specified problems, but its accuracy drops to 8.3% for
+under-specified problems. Analysis of the model's incorrect solutions revealed
+three distinct failure modes: 1) failure to construct accurate models of the
+physical world, 2) failure to make reasonable assumptions about missing data,
+and 3) calculation errors. The study offers implications for how to leverage
+LLM-augmented instructional materials to enhance STEM education. The insights
+also contribute to the broader discourse on AI's strengths and limitations,
+serving both educators aiming to leverage the technology and researchers
+investigating human-AI collaboration frameworks for problem-solving and
+decision-making."
+2024-05-30,Designing Prompt Analytics Dashboards to Analyze Student-ChatGPT Interactions in EFL Writing,"Minsun Kim, SeonGyeom Kim, Suyoun Lee, Yoosang Yoon, Junho Myung, Haneul Yoo, Hyungseung Lim, Jieun Han, Yoonsu Kim, So-Yeon Ahn, Juho Kim, Alice Oh, Hwajung Hong, Tak Yeon Lee","While ChatGPT has significantly impacted education by offering personalized
+resources for students, its integration into educational settings poses
+unprecedented risks, such as inaccuracies and biases in AI-generated content,
+plagiarism and over-reliance on AI, and privacy and security issues. To help
+teachers address such risks, we conducted a two-phase iterative design process
+that comprises surveys, interviews, and prototype demonstration involving six
+EFL (English as a Foreign Language) teachers, who integrated ChatGPT into
+semester-long English essay writing classes. Based on the needs identified
+during the initial survey and interviews, we developed a prototype of Prompt
+Analytics Dashboard (PAD) that integrates the essay editing history and chat
+logs between students and ChatGPT. Teacher's feedback on the prototype informs
+additional features and unmet needs for designing future PAD, which helps them
+(1) analyze contextual analysis of student behaviors, (2) design an overall
+learning loop, and (3) develop their teaching skills."
+2023-05-09,Exploring the Efficacy of ChatGPT in Analyzing Student Teamwork Feedback with an Existing Taxonomy,"Andrew Katz, Siqing Wei, Gaurav Nanda, Christopher Brinton, Matthew Ohland","Teamwork is a critical component of many academic and professional settings.
+In those contexts, feedback between team members is an important element to
+facilitate successful and sustainable teamwork. However, in the classroom, as
+the number of teams and team members and frequency of evaluation increase, the
+volume of comments can become overwhelming for an instructor to read and track,
+making it difficult to identify patterns and areas for student improvement. To
+address this challenge, we explored the use of generative AI models,
+specifically ChatGPT, to analyze student comments in team based learning
+contexts. Our study aimed to evaluate ChatGPT's ability to accurately identify
+topics in student comments based on an existing framework consisting of
+positive and negative comments. Our results suggest that ChatGPT can achieve
+over 90\% accuracy in labeling student comments, providing a potentially
+valuable tool for analyzing feedback in team projects. This study contributes
+to the growing body of research on the use of AI models in educational contexts
+and highlights the potential of ChatGPT for facilitating analysis of student
+comments."
+2023-12-26,Can ChatGPT Read Who You Are?,"Erik Derner, Dalibor Kučera, Nuria Oliver, Jan Zahálka","The interplay between artificial intelligence (AI) and psychology,
+particularly in personality assessment, represents an important emerging area
+of research. Accurate personality trait estimation is crucial not only for
+enhancing personalization in human-computer interaction but also for a wide
+variety of applications ranging from mental health to education. This paper
+analyzes the capability of a generic chatbot, ChatGPT, to effectively infer
+personality traits from short texts. We report the results of a comprehensive
+user study featuring texts written in Czech by a representative population
+sample of 155 participants. Their self-assessments based on the Big Five
+Inventory (BFI) questionnaire serve as the ground truth. We compare the
+personality trait estimations made by ChatGPT against those by human raters and
+report ChatGPT's competitive performance in inferring personality traits from
+text. We also uncover a 'positivity bias' in ChatGPT's assessments across all
+personality dimensions and explore the impact of prompt composition on
+accuracy. This work contributes to the understanding of AI capabilities in
+psychological assessment, highlighting both the potential and limitations of
+using large language models for personality inference. Our research underscores
+the importance of responsible AI development, considering ethical implications
+such as privacy, consent, autonomy, and bias in AI applications."
+2024-02-28,ChatGPT as a Math Questioner? Evaluating ChatGPT on Generating Pre-university Math Questions,"Phuoc Pham Van Long, Duc Anh Vu, Nhat M. Hoang, Xuan Long Do, Anh Tuan Luu","Mathematical questioning is crucial for assessing students problem-solving
+skills. Since manually creating such questions requires substantial effort,
+automatic methods have been explored. Existing state-of-the-art models rely on
+fine-tuning strategies and struggle to generate questions that heavily involve
+multiple steps of logical and arithmetic reasoning. Meanwhile, large language
+models(LLMs) such as ChatGPT have excelled in many NLP tasks involving logical
+and arithmetic reasoning. Nonetheless, their applications in generating
+educational questions are underutilized, especially in the field of
+mathematics. To bridge this gap, we take the first step to conduct an in-depth
+analysis of ChatGPT in generating pre-university math questions. Our analysis
+is categorized into two main settings: context-aware and context-unaware. In
+the context-aware setting, we evaluate ChatGPT on existing math
+question-answering benchmarks covering elementary, secondary, and ternary
+classes. In the context-unaware setting, we evaluate ChatGPT in generating math
+questions for each lesson from pre-university math curriculums that we crawl.
+Our crawling results in TopicMath, a comprehensive and novel collection of
+pre-university math curriculums collected from 121 math topics and 428 lessons
+from elementary, secondary, and tertiary classes. Through this analysis, we aim
+to provide insight into the potential of ChatGPT as a math questioner."
+2023-04-20,Performance of ChatGPT on the US Fundamentals of Engineering Exam: Comprehensive Assessment of Proficiency and Potential Implications for Professional Environmental Engineering Practice,"Vinay Pursnani, Yusuf Sermet, Ibrahim Demir","In recent years, advancements in artificial intelligence (AI) have led to the
+development of large language models like GPT-4, demonstrating potential
+applications in various fields, including education. This study investigates
+the feasibility and effectiveness of using ChatGPT, a GPT-4 based model, in
+achieving satisfactory performance on the Fundamentals of Engineering (FE)
+Environmental Exam. This study further shows a significant improvement in the
+model's accuracy when answering FE exam questions through noninvasive prompt
+modifications, substantiating the utility of prompt modification as a viable
+approach to enhance AI performance in educational contexts. Furthermore, the
+findings reflect remarkable improvements in mathematical capabilities across
+successive iterations of ChatGPT models, showcasing their potential in solving
+complex engineering problems. Our paper also explores future research
+directions, emphasizing the importance of addressing AI challenges in
+education, enhancing accessibility and inclusion for diverse student
+populations, and developing AI-resistant exam questions to maintain examination
+integrity. By evaluating the performance of ChatGPT in the context of the FE
+Environmental Exam, this study contributes valuable insights into the potential
+applications and limitations of large language models in educational settings.
+As AI continues to evolve, these findings offer a foundation for further
+research into the responsible and effective integration of AI models across
+various disciplines, ultimately optimizing the learning experience and
+improving student outcomes."
+2023-11-10,ChatGPT as Co-Advisor in Scientific Initiation: Action Research with Project-Based Learning in Elementary Education,"Fabiano Villan, Renato P. dos Santos","Background: In the contemporary educational landscape, technology has the
+power to drive innovative pedagogical practices. Overcoming the resistance of
+teachers and students to adopting new methods and technologies is a challenge
+that needs to be addressed. Objectives: To evaluate the effectiveness of
+ChatGPT as a co-advisor in research projects and its influence on the
+implementation of Project-Based Learning (PBL), as well as overcoming
+resistance to the use of new pedagogical methodologies. Design: An
+action-research methodology was employed, including unstructured interviews and
+the application of questionnaires via Google Forms. Setting and Participants:
+The research was conducted in an elementary school, involving 353 students and
+16 teachers. Data Collection and Analysis: Data were gathered through
+observations and notes in meetings and interviews, complemented by electronic
+questionnaires, with quantitative and qualitative analyses performed via
+Microsoft Excel and Google Forms. Results: The introduction of ChatGPT as a
+pedagogical tool led to increased student engagement and decreased teacher
+resistance, reflected in recognition at local science fairs. Conclusion: The
+study confirmed the utility of ChatGPT in school research co-orientation,
+highlighting its role in facilitating PBL and promoting cultural changes in
+educational practice, with proactive school management identified as a
+catalysing element in adapting to educational innovations."
+2023-10-01,My Machine and I: ChatGPT and the Future of Human-Machine Collaboration in Africa,"Munachimso Blessing Oguine, Chidera Godsfavor Oguine, Kanyifeechukwu Jane Oguine","Recent advancements in technology have necessitated a paradigm shift in the
+people use technology necessitating a new research field called Human-Machine
+collaboration. ChatGPT, an Artificial intelligence (AI) assistive technology,
+has gained mainstream adoption and implementation in academia and industry;
+however, a lot is left unknown about how this new technology holds for
+Human-Machine Collaboration in Africa. Our survey paper highlights to answer
+some of these questions. To understand the effectiveness of ChatGPT on
+human-machine collaboration we utilized reflexive thematic analysis to analyze
+(N= 51) articles between 2019 and 2023 obtained from our literature search. Our
+findings indicate the prevalence of ChatGPT for human-computer interaction
+within academic sectors such as education, and research; trends also revealed
+the relatively high effectiveness of ChatGPT in improving human-machine
+collaboration."
+2023-05-29,"Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations","Attia Qammar, Hongmei Wang, Jianguo Ding, Abdenacer Naouri, Mahmoud Daneshmand, Huansheng Ning","Chatbots shifted from rule-based to artificial intelligence techniques and
+gained traction in medicine, shopping, customer services, food delivery,
+education, and research. OpenAI developed ChatGPT blizzard on the Internet as
+it crossed one million users within five days of its launch. However, with the
+enhanced popularity, chatbots experienced cybersecurity threats and
+vulnerabilities. This paper discussed the relevant literature, reports, and
+explanatory incident attacks generated against chatbots. Our initial point is
+to explore the timeline of chatbots from ELIZA (an early natural language
+processing computer program) to GPT-4 and provide the working mechanism of
+ChatGPT. Subsequently, we explored the cybersecurity attacks and
+vulnerabilities in chatbots. Besides, we investigated the ChatGPT, specifically
+in the context of creating the malware code, phishing emails, undetectable
+zero-day attacks, and generation of macros and LOLBINs. Furthermore, the
+history of cyberattacks and vulnerabilities exploited by cybercriminals are
+discussed, particularly considering the risk and vulnerabilities in ChatGPT.
+Addressing these threats and vulnerabilities requires specific strategies and
+measures to reduce the harmful consequences. Therefore, the future directions
+to address the challenges were presented."
+2024-01-28,Integrating AI in Educational Measurement: ChatGPT's Efficacy in Item Response Theory Data Generation,"Hatice Gurdil, Yesim Beril Soguksu, Salih Salihoglu, Fatma Coskun","This paper explores the efficacy of ChatGPT in generating data for Item
+Response Theory (IRT) using the R programming language. Focusing on the 2
+Parameter Logistic Model (2PLM), it evaluates datasets produced by ChatGPT
+against several IRT assumptions like unidimensionality and local independence.
+The study compares these datasets with those generated by researchers,
+assessing compliance with simulation conditions, bias, and RMSE values. The
+results indicate that while ChatGPT algorithms successfully generate data
+adhering to IRT assumptions, they exhibit more issues with item parameter
+compliance compared to researcher-generated algorithms. This study highlights
+ChatGPT's potential in data generation, but also underscores the importance of
+human expertise in guiding its outputs for scientific research."
+2023-04-14,"ChatGPT: Applications, Opportunities, and Threats","Aram Bahrini, Mohammadsadra Khamoshifar, Hossein Abbasimehr, Robert J. Riggs, Maryam Esmaeili, Rastin Mastali Majdabadkohne, Morteza Pasehvar","Developed by OpenAI, ChatGPT (Conditional Generative Pre-trained Transformer)
+is an artificial intelligence technology that is fine-tuned using supervised
+machine learning and reinforcement learning techniques, allowing a computer to
+generate natural language conversation fully autonomously. ChatGPT is built on
+the transformer architecture and trained on millions of conversations from
+various sources. The system combines the power of pre-trained deep learning
+models with a programmability layer to provide a strong base for generating
+natural language conversations. In this study, after reviewing the existing
+literature, we examine the applications, opportunities, and threats of ChatGPT
+in 10 main domains, providing detailed examples for the business and industry
+as well as education. We also conducted an experimental study, checking the
+effectiveness and comparing the performances of GPT-3.5 and GPT-4, and found
+that the latter performs significantly better. Despite its exceptional ability
+to generate natural-sounding responses, the authors believe that ChatGPT does
+not possess the same level of understanding, empathy, and creativity as a human
+and cannot fully replace them in most situations."
+2023-11-15,Practical Use of ChatGPT in Psychiatry for Treatment Plan and Psychoeducation,"Farzan Vahedifard, Atieh Sadeghniiat Haghighi, Tirth Dave, Mohammad Tolouei, Fateme Hoshyar Zare","Artificial Intelligence (AI) has revolutionized various fields, including
+medicine and mental health support. One promising application is ChatGPT, an
+advanced conversational AI model that uses deep learning techniques to provide
+human-like responses. This review paper explores the potential impact of
+ChatGPT in psychiatry and its various applications, highlighting its role in
+therapy and counseling techniques, self-help and coping strategies, mindfulness
+and relaxation techniques, screening and monitoring, education and information
+dissemination, specialized support, group and family support, learning and
+training, expressive and artistic therapies, telepsychiatry and online support,
+and crisis management and prevention. While ChatGPT offers personalized,
+accessible, and scalable support, it is essential to emphasize that it should
+not replace the expertise and guidance of qualified mental health
+professionals. Ethical considerations, such as user privacy, data security, and
+human oversight, are also discussed. By examining the potential and challenges,
+this paper sheds light on the responsible integration of ChatGPT in psychiatric
+research and practice, fostering improved mental health outcomes."
